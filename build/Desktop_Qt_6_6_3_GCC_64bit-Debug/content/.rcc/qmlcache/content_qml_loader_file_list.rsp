@@ -1,0 +1,31 @@
+--resource
+/media/reza/ADATA HD710 PRO/HAS/HAS/build/Desktop_Qt_6_6_3_GCC_64bit-Debug/content/.rcc/qmake_content.qrc
+--resource
+/media/reza/ADATA HD710 PRO/HAS/HAS/build/Desktop_Qt_6_6_3_GCC_64bit-Debug/content/.rcc/content_raw_qml_0.qrc
+/content/App.qml
+/content/SettingBar.qml
+/content/CustomLabel.qml
+/content/CircleSlider.qml
+/content/Dashboard.qml
+/content/Div.qml
+/content/Lighting.qml
+/content/ToggleButton.qml
+/content/ArcSlider.qml
+/content/RGBSlider.qml
+/content/Browser.qml
+/content/Pager.qml
+/content/PagerIcon.qml
+/content/Weather.qml
+/content/RestaurantItem.qml
+/content/RestaurantMenu.qml
+/content/TVItem.qml
+/content/TVMenu.qml
+/content/GameItem.qml
+/content/GameMenu.qml
+/content/HIS.qml
+/content/NurseCall.qml
+/content/DialButton.qml
+/content/CardReaderMenu.qml
+/content/data/Constants.qml
+/content/data/Backend.qml
+/content/data/Colors.qml

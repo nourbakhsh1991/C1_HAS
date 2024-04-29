@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/HAS/">
+    <file alias="main.qml">/media/reza/ADATA HD710 PRO/HAS/HAS/main.qml</file>
+  </qresource>
+</RCC>
+

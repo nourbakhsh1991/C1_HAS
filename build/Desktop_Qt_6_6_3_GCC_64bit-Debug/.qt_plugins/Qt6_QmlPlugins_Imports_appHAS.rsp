@@ -1,0 +1,14 @@
+-rootPath
+/media/reza/ADATA HD710 PRO/HAS/HAS
+-cmake-output
+-output-file
+/media/reza/ADATA HD710 PRO/HAS/HAS/build/Desktop_Qt_6_6_3_GCC_64bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_appHAS.cmake
+-importPath
+/media/reza/ADATA HD710 PRO/HAS/HAS/build/Desktop_Qt_6_6_3_GCC_64bit-Debug/HAS
+-importPath
+/media/reza/ADATA HD710 PRO/HAS/HAS/build/Desktop_Qt_6_6_3_GCC_64bit-Debug
+-importPath
+/home/reza/Qt/6.6.3/gcc_64/./qml
+-qrcFiles
+/media/reza/ADATA HD710 PRO/HAS/HAS/build/Desktop_Qt_6_6_3_GCC_64bit-Debug/.rcc/qmake_HAS.qrc
+/media/reza/ADATA HD710 PRO/HAS/HAS/build/Desktop_Qt_6_6_3_GCC_64bit-Debug/.rcc/appHAS_raw_qml_0.qrc

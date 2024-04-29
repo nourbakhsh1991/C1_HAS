@@ -1,0 +1,580 @@
+# ninja log v5
+1	156	1714414638627019300	HAS/main.qml	b51132c7536b87b3
+1	156	1714414638627019300	/media/reza/ADATA HD710 PRO/HAS/HAS/build/Desktop_Qt_6_6_3_GCC_64bit-Debug/HAS/main.qml	b51132c7536b87b3
+9	277	1714414638671019100	.qt_plugins/Qt6_QmlPlugins_Imports_appHAS.cmake	a3683bb7d6e6668f
+9	277	1714414638671019100	/media/reza/ADATA HD710 PRO/HAS/HAS/build/Desktop_Qt_6_6_3_GCC_64bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_appHAS.cmake	a3683bb7d6e6668f
+17	278	1714414638643019200	content/images/5aad7d561c2dc7a0a0ad19404fae8734.svg	a205e252d7dcc4c6
+17	278	1714414638643019200	/media/reza/ADATA HD710 PRO/HAS/HAS/build/Desktop_Qt_6_6_3_GCC_64bit-Debug/content/images/5aad7d561c2dc7a0a0ad19404fae8734.svg	a205e252d7dcc4c6
+25	283	1714414638651019200	content/fonts/NotoSans-ExtraCondensedSemiBoldItalic.ttf	6cd506ff6013520a
+25	283	1714414638651019200	/media/reza/ADATA HD710 PRO/HAS/HAS/build/Desktop_Qt_6_6_3_GCC_64bit-Debug/content/fonts/NotoSans-ExtraCondensedSemiBoldItalic.ttf	6cd506ff6013520a
+29	301	1714414638655019200	content/fonts/NotoSans-ExtraCondensedSemiBold.ttf	b5c0085a7e378e5e
+29	301	1714414638655019200	/media/reza/ADATA HD710 PRO/HAS/HAS/build/Desktop_Qt_6_6_3_GCC_64bit-Debug/content/fonts/NotoSans-ExtraCondensedSemiBold.ttf	b5c0085a7e378e5e
+37	313	1714414638667019100	content/CustomLabel.qml	3c91ad8bde21576f
+37	313	1714414638667019100	/media/reza/ADATA HD710 PRO/HAS/HAS/build/Desktop_Qt_6_6_3_GCC_64bit-Debug/content/CustomLabel.qml	3c91ad8bde21576f
+49	317	1714414638679019000	content/.rcc/qrc_qmake_content.cpp	882936476d6b4197
+49	317	1714414638679019000	/media/reza/ADATA HD710 PRO/HAS/HAS/build/Desktop_Qt_6_6_3_GCC_64bit-Debug/content/.rcc/qrc_qmake_content.cpp	882936476d6b4197
+69	317	1714414638691019000	content/.rcc/qmlcache/content_qmlcache_loader.cpp	f83d18ac4369b745
+69	317	1714414638691019000	/media/reza/ADATA HD710 PRO/HAS/HAS/build/Desktop_Qt_6_6_3_GCC_64bit-Debug/content/.rcc/qmlcache/content_qmlcache_loader.cpp	f83d18ac4369b745
+77	317	1714414638883017900	content/App.qml	32e84e6841779bba
+77	317	1714414638883017900	/media/reza/ADATA HD710 PRO/HAS/HAS/build/Desktop_Qt_6_6_3_GCC_64bit-Debug/content/App.qml	32e84e6841779bba
+81	319	1714414638887017900	content/SettingBar.qml	ad93a63d5921da11
+81	319	1714414638887017900	/media/reza/ADATA HD710 PRO/HAS/HAS/build/Desktop_Qt_6_6_3_GCC_64bit-Debug/content/SettingBar.qml	ad93a63d5921da11
+85	320	1714414638887017900	content/images/f2aa9e9a577bc5cd117557d30629636a.svg	debf5cf5f1bc48ae
+85	320	1714414638887017900	/media/reza/ADATA HD710 PRO/HAS/HAS/build/Desktop_Qt_6_6_3_GCC_64bit-Debug/content/images/f2aa9e9a577bc5cd117557d30629636a.svg	debf5cf5f1bc48ae
+97	323	1714414638891017900	content/CircleSlider.qml	cf2b4d30667726a4
+97	323	1714414638891017900	/media/reza/ADATA HD710 PRO/HAS/HAS/build/Desktop_Qt_6_6_3_GCC_64bit-Debug/content/CircleSlider.qml	cf2b4d30667726a4
+105	324	1714414638891017900	content/Dashboard.qml	5a5ecabf884bd1c6
+105	324	1714414638891017900	/media/reza/ADATA HD710 PRO/HAS/HAS/build/Desktop_Qt_6_6_3_GCC_64bit-Debug/content/Dashboard.qml	5a5ecabf884bd1c6
+113	325	1714414638895017800	content/Div.qml	f427fe92deffbcf7
+113	325	1714414638895017800	/media/reza/ADATA HD710 PRO/HAS/HAS/build/Desktop_Qt_6_6_3_GCC_64bit-Debug/content/Div.qml	f427fe92deffbcf7
+117	329	1714414638895017800	content/Lighting.qml	59b26aef854b2444
+117	329	1714414638895017800	/media/reza/ADATA HD710 PRO/HAS/HAS/build/Desktop_Qt_6_6_3_GCC_64bit-Debug/content/Lighting.qml	59b26aef854b2444
+121	333	1714414638895017800	content/ToggleButton.qml	7d7a558cc220b20b
+121	333	1714414638895017800	/media/reza/ADATA HD710 PRO/HAS/HAS/build/Desktop_Qt_6_6_3_GCC_64bit-Debug/content/ToggleButton.qml	7d7a558cc220b20b
+125	333	1714414638895017800	content/ArcSlider.qml	f0dd56edaf0ae3cd
+125	333	1714414638895017800	/media/reza/ADATA HD710 PRO/HAS/HAS/build/Desktop_Qt_6_6_3_GCC_64bit-Debug/content/ArcSlider.qml	f0dd56edaf0ae3cd
+128	335	1714414638895017800	content/RGBSlider.qml	4ed5efd48c02b50
+128	335	1714414638895017800	/media/reza/ADATA HD710 PRO/HAS/HAS/build/Desktop_Qt_6_6_3_GCC_64bit-Debug/content/RGBSlider.qml	4ed5efd48c02b50
+128	337	1714414638895017800	content/Browser.qml	3bcbb0b3a8c01220
+128	337	1714414638895017800	/media/reza/ADATA HD710 PRO/HAS/HAS/build/Desktop_Qt_6_6_3_GCC_64bit-Debug/content/Browser.qml	3bcbb0b3a8c01220
+128	345	1714414638895017800	content/Pager.qml	f54b3de1ee9e2e7d
+128	345	1714414638895017800	/media/reza/ADATA HD710 PRO/HAS/HAS/build/Desktop_Qt_6_6_3_GCC_64bit-Debug/content/Pager.qml	f54b3de1ee9e2e7d
+133	349	1714414638895017800	content/PagerIcon.qml	3c3607adc6935ece
+133	349	1714414638895017800	/media/reza/ADATA HD710 PRO/HAS/HAS/build/Desktop_Qt_6_6_3_GCC_64bit-Debug/content/PagerIcon.qml	3c3607adc6935ece
+137	352	1714414638895017800	content/Weather.qml	2ad40026a6a2dc3f
+137	352	1714414638895017800	/media/reza/ADATA HD710 PRO/HAS/HAS/build/Desktop_Qt_6_6_3_GCC_64bit-Debug/content/Weather.qml	2ad40026a6a2dc3f
+139	352	1714414638895017800	content/RestaurantItem.qml	60a503dee97c742a
+139	352	1714414638895017800	/media/reza/ADATA HD710 PRO/HAS/HAS/build/Desktop_Qt_6_6_3_GCC_64bit-Debug/content/RestaurantItem.qml	60a503dee97c742a
+144	357	1714414638895017800	content/RestaurantMenu.qml	e0e82bc9fc0f82a7
+144	357	1714414638895017800	/media/reza/ADATA HD710 PRO/HAS/HAS/build/Desktop_Qt_6_6_3_GCC_64bit-Debug/content/RestaurantMenu.qml	e0e82bc9fc0f82a7
+149	358	1714414638895017800	content/TVItem.qml	55ea15daa8adfb79
+149	358	1714414638895017800	/media/reza/ADATA HD710 PRO/HAS/HAS/build/Desktop_Qt_6_6_3_GCC_64bit-Debug/content/TVItem.qml	55ea15daa8adfb79
+150	364	1714414638899017800	content/TVMenu.qml	d8d64600c07c22a
+150	364	1714414638899017800	/media/reza/ADATA HD710 PRO/HAS/HAS/build/Desktop_Qt_6_6_3_GCC_64bit-Debug/content/TVMenu.qml	d8d64600c07c22a
+150	364	1714414638899017800	content/GameItem.qml	af1a854ce327a86
+150	364	1714414638899017800	/media/reza/ADATA HD710 PRO/HAS/HAS/build/Desktop_Qt_6_6_3_GCC_64bit-Debug/content/GameItem.qml	af1a854ce327a86
+150	364	1714414638903017800	content/GameMenu.qml	566e51b489aff837
+150	364	1714414638903017800	/media/reza/ADATA HD710 PRO/HAS/HAS/build/Desktop_Qt_6_6_3_GCC_64bit-Debug/content/GameMenu.qml	566e51b489aff837
+150	364	1714414638907017800	content/HIS.qml	a4c0ed5afdaf3c66
+150	364	1714414638907017800	/media/reza/ADATA HD710 PRO/HAS/HAS/build/Desktop_Qt_6_6_3_GCC_64bit-Debug/content/HIS.qml	a4c0ed5afdaf3c66
+151	365	1714414638903017800	content/NurseCall.qml	a59b579c812cd6c7
+151	365	1714414638903017800	/media/reza/ADATA HD710 PRO/HAS/HAS/build/Desktop_Qt_6_6_3_GCC_64bit-Debug/content/NurseCall.qml	a59b579c812cd6c7
+156	365	1714414638903017800	content/DialButton.qml	878f18665b51b8f1
+156	365	1714414638903017800	/media/reza/ADATA HD710 PRO/HAS/HAS/build/Desktop_Qt_6_6_3_GCC_64bit-Debug/content/DialButton.qml	878f18665b51b8f1
+156	366	1714414638899017800	content/CardReaderMenu.qml	486a99cad26dc0da
+156	366	1714414638899017800	/media/reza/ADATA HD710 PRO/HAS/HAS/build/Desktop_Qt_6_6_3_GCC_64bit-Debug/content/CardReaderMenu.qml	486a99cad26dc0da
+156	366	1714414638883017900	content/data/Constants.qml	6d5cbef6718df0d
+156	366	1714414638883017900	/media/reza/ADATA HD710 PRO/HAS/HAS/build/Desktop_Qt_6_6_3_GCC_64bit-Debug/content/data/Constants.qml	6d5cbef6718df0d
+273	366	1714414638891017900	content/data/Backend.qml	5b61820732f7b465
+273	366	1714414638891017900	/media/reza/ADATA HD710 PRO/HAS/HAS/build/Desktop_Qt_6_6_3_GCC_64bit-Debug/content/data/Backend.qml	5b61820732f7b465
+277	368	1714414638895017800	content/data/Colors.qml	cf39897718e77cbf
+277	368	1714414638895017800	/media/reza/ADATA HD710 PRO/HAS/HAS/build/Desktop_Qt_6_6_3_GCC_64bit-Debug/content/data/Colors.qml	cf39897718e77cbf
+278	368	1714414638895017800	content/images/pics/nourbakhsh.jpg	257a6cb82a67c330
+278	368	1714414638895017800	/media/reza/ADATA HD710 PRO/HAS/HAS/build/Desktop_Qt_6_6_3_GCC_64bit-Debug/content/images/pics/nourbakhsh.jpg	257a6cb82a67c330
+283	369	1714414638919017700	content/images/food/chicken.jpg	9c55194e9641ed49
+283	369	1714414638919017700	/media/reza/ADATA HD710 PRO/HAS/HAS/build/Desktop_Qt_6_6_3_GCC_64bit-Debug/content/images/food/chicken.jpg	9c55194e9641ed49
+301	369	1714414638935017600	content/images/food/margherita.jpg	d458ea28123a9a9
+301	369	1714414638935017600	/media/reza/ADATA HD710 PRO/HAS/HAS/build/Desktop_Qt_6_6_3_GCC_64bit-Debug/content/images/food/margherita.jpg	d458ea28123a9a9
+313	370	1714414638943017600	content/images/food/pepperoni.jpg	f0f1b037c43f228a
+313	370	1714414638943017600	/media/reza/ADATA HD710 PRO/HAS/HAS/build/Desktop_Qt_6_6_3_GCC_64bit-Debug/content/images/food/pepperoni.jpg	f0f1b037c43f228a
+317	371	1714414638955017500	content/CMakeFiles/content_resources_1.dir/.rcc/qrc_qmake_content.cpp.o	a8e2866902c525b9
+317	371	1714414638939017600	content/images/weather/na.svg	a565f94b219b38
+317	371	1714414638939017600	/media/reza/ADATA HD710 PRO/HAS/HAS/build/Desktop_Qt_6_6_3_GCC_64bit-Debug/content/images/weather/na.svg	a565f94b219b38
+317	374	1714414638939017600	content/images/weather/sun.svg	bdf55b986941fb3c
+317	374	1714414638939017600	/media/reza/ADATA HD710 PRO/HAS/HAS/build/Desktop_Qt_6_6_3_GCC_64bit-Debug/content/images/weather/sun.svg	bdf55b986941fb3c
+319	374	1714414638947017600	content/images/dashboard.svg	4efc298501bde0f7
+319	374	1714414638947017600	/media/reza/ADATA HD710 PRO/HAS/HAS/build/Desktop_Qt_6_6_3_GCC_64bit-Debug/content/images/dashboard.svg	4efc298501bde0f7
+320	375	1714414638951017500	content/images/plus.svg	8f65dcc7e8416d72
+320	375	1714414638951017500	/media/reza/ADATA HD710 PRO/HAS/HAS/build/Desktop_Qt_6_6_3_GCC_64bit-Debug/content/images/plus.svg	8f65dcc7e8416d72
+323	375	1714414638947017600	content/images/sort-down.svg	53b0d25ebbae505
+323	375	1714414638947017600	/media/reza/ADATA HD710 PRO/HAS/HAS/build/Desktop_Qt_6_6_3_GCC_64bit-Debug/content/images/sort-down.svg	53b0d25ebbae505
+324	377	1714414638947017600	content/images/arrow-left.svg	506e34afd5345835
+324	377	1714414638947017600	/media/reza/ADATA HD710 PRO/HAS/HAS/build/Desktop_Qt_6_6_3_GCC_64bit-Debug/content/images/arrow-left.svg	506e34afd5345835
+325	377	1714414638951017500	content/images/arrow-right.svg	54697cf3dbffe1fb
+325	377	1714414638951017500	/media/reza/ADATA HD710 PRO/HAS/HAS/build/Desktop_Qt_6_6_3_GCC_64bit-Debug/content/images/arrow-right.svg	54697cf3dbffe1fb
+329	377	1714414638951017500	content/images/arrow-rotate-right.svg	5548f69552bd39dc
+329	377	1714414638951017500	/media/reza/ADATA HD710 PRO/HAS/HAS/build/Desktop_Qt_6_6_3_GCC_64bit-Debug/content/images/arrow-rotate-right.svg	5548f69552bd39dc
+333	377	1714414638951017500	content/images/xmark.svg	b1eb0e75711cdf65
+333	377	1714414638951017500	/media/reza/ADATA HD710 PRO/HAS/HAS/build/Desktop_Qt_6_6_3_GCC_64bit-Debug/content/images/xmark.svg	b1eb0e75711cdf65
+333	378	1714414638955017500	content/images/web_browsing.svg	72cc04071d8d2af5
+333	378	1714414638955017500	/media/reza/ADATA HD710 PRO/HAS/HAS/build/Desktop_Qt_6_6_3_GCC_64bit-Debug/content/images/web_browsing.svg	72cc04071d8d2af5
+335	379	1714414638955017500	content/images/tv.svg	310bf66bb0d072c3
+335	379	1714414638955017500	/media/reza/ADATA HD710 PRO/HAS/HAS/build/Desktop_Qt_6_6_3_GCC_64bit-Debug/content/images/tv.svg	310bf66bb0d072c3
+337	379	1714414638959017500	content/images/trip.png	71f1ca4d861fd634
+337	379	1714414638959017500	/media/reza/ADATA HD710 PRO/HAS/HAS/build/Desktop_Qt_6_6_3_GCC_64bit-Debug/content/images/trip.png	71f1ca4d861fd634
+345	384	1714414638963017500	content/images/top_curtain_drag_back.png	40ef53650d9e1afa
+345	384	1714414638963017500	/media/reza/ADATA HD710 PRO/HAS/HAS/build/Desktop_Qt_6_6_3_GCC_64bit-Debug/content/images/top_curtain_drag_back.png	40ef53650d9e1afa
+349	391	1714414638967017400	content/images/top_curtain_drag.png	f58bda8539963311
+349	391	1714414638967017400	/media/reza/ADATA HD710 PRO/HAS/HAS/build/Desktop_Qt_6_6_3_GCC_64bit-Debug/content/images/top_curtain_drag.png	f58bda8539963311
+352	397	1714414638971017400	content/images/speed.png	65bf34b0712a3a33
+352	397	1714414638971017400	/media/reza/ADATA HD710 PRO/HAS/HAS/build/Desktop_Qt_6_6_3_GCC_64bit-Debug/content/images/speed.png	65bf34b0712a3a33
+352	397	1714414638971017400	content/images/small_speedometer_shadow.png	cd4c5d61084c4cd2
+352	397	1714414638971017400	/media/reza/ADATA HD710 PRO/HAS/HAS/build/Desktop_Qt_6_6_3_GCC_64bit-Debug/content/images/small_speedometer_shadow.png	cd4c5d61084c4cd2
+357	399	1714414638975017400	content/images/settings_selected.png	9dd94227a15c2da1
+357	399	1714414638975017400	/media/reza/ADATA HD710 PRO/HAS/HAS/build/Desktop_Qt_6_6_3_GCC_64bit-Debug/content/images/settings_selected.png	9dd94227a15c2da1
+358	404	1714414638979017400	content/images/settings.png	f461b0fecc30efcd
+358	404	1714414638979017400	/media/reza/ADATA HD710 PRO/HAS/HAS/build/Desktop_Qt_6_6_3_GCC_64bit-Debug/content/images/settings.png	f461b0fecc30efcd
+364	406	1714414638983017400	content/images/search_cancel.png	d08e3eb1ff794940
+364	406	1714414638983017400	/media/reza/ADATA HD710 PRO/HAS/HAS/build/Desktop_Qt_6_6_3_GCC_64bit-Debug/content/images/search_cancel.png	d08e3eb1ff794940
+364	409	1714414638983017400	content/images/nurse_call.svg	2aff0faf1a930ec3
+364	409	1714414638983017400	/media/reza/ADATA HD710 PRO/HAS/HAS/build/Desktop_Qt_6_6_3_GCC_64bit-Debug/content/images/nurse_call.svg	2aff0faf1a930ec3
+364	410	1714414638983017400	content/images/nav_nodir.png	45ac642f318a98c2
+364	410	1714414638983017400	/media/reza/ADATA HD710 PRO/HAS/HAS/build/Desktop_Qt_6_6_3_GCC_64bit-Debug/content/images/nav_nodir.png	45ac642f318a98c2
+365	411	1714414638983017400	content/images/map_zoomin.png	f81cd764966bb2a9
+365	411	1714414638983017400	/media/reza/ADATA HD710 PRO/HAS/HAS/build/Desktop_Qt_6_6_3_GCC_64bit-Debug/content/images/map_zoomin.png	f81cd764966bb2a9
+365	413	1714414638983017400	content/images/map_location_arrow.png	c765a61765043e6d
+365	413	1714414638983017400	/media/reza/ADATA HD710 PRO/HAS/HAS/build/Desktop_Qt_6_6_3_GCC_64bit-Debug/content/images/map_location_arrow.png	c765a61765043e6d
+366	417	1714414638983017400	content/images/map_locate.png	f0951f7e65158dbf
+366	417	1714414638983017400	/media/reza/ADATA HD710 PRO/HAS/HAS/build/Desktop_Qt_6_6_3_GCC_64bit-Debug/content/images/map_locate.png	f0951f7e65158dbf
+366	418	1714414638983017400	content/images/list_selected.png	9a89a28e90802e87
+366	418	1714414638983017400	/media/reza/ADATA HD710 PRO/HAS/HAS/build/Desktop_Qt_6_6_3_GCC_64bit-Debug/content/images/list_selected.png	9a89a28e90802e87
+364	419	1714414638991017300	content/images/map_zoomout.png	4cfa1f2475229858
+364	419	1714414638991017300	/media/reza/ADATA HD710 PRO/HAS/HAS/build/Desktop_Qt_6_6_3_GCC_64bit-Debug/content/images/map_zoomout.png	4cfa1f2475229858
+366	419	1714414638987017300	content/images/list.png	8102d7487fb2fa2a
+366	419	1714414638987017300	/media/reza/ADATA HD710 PRO/HAS/HAS/build/Desktop_Qt_6_6_3_GCC_64bit-Debug/content/images/list.png	8102d7487fb2fa2a
+368	419	1714414638987017300	content/images/lights_on.png	70ba0a38c32f726
+368	419	1714414638987017300	/media/reza/ADATA HD710 PRO/HAS/HAS/build/Desktop_Qt_6_6_3_GCC_64bit-Debug/content/images/lights_on.png	70ba0a38c32f726
+368	420	1714414638991017300	content/images/lights_off.png	4746503c97179cf2
+368	420	1714414638991017300	/media/reza/ADATA HD710 PRO/HAS/HAS/build/Desktop_Qt_6_6_3_GCC_64bit-Debug/content/images/lights_off.png	4746503c97179cf2
+369	420	1714414638991017300	content/images/lighting.svg	64c9ab733f3b7c3f
+369	420	1714414638991017300	/media/reza/ADATA HD710 PRO/HAS/HAS/build/Desktop_Qt_6_6_3_GCC_64bit-Debug/content/images/lighting.svg	64c9ab733f3b7c3f
+369	420	1714414638987017300	content/images/info_selected.png	10db5ba5edc4dad1
+369	420	1714414638987017300	/media/reza/ADATA HD710 PRO/HAS/HAS/build/Desktop_Qt_6_6_3_GCC_64bit-Debug/content/images/info_selected.png	10db5ba5edc4dad1
+370	421	1714414638987017300	content/images/info.png	a7d268c3057d22c9
+370	421	1714414638987017300	/media/reza/ADATA HD710 PRO/HAS/HAS/build/Desktop_Qt_6_6_3_GCC_64bit-Debug/content/images/info.png	a7d268c3057d22c9
+371	422	1714414638991017300	content/images/his.svg	6c41da85c45519a2
+371	422	1714414638991017300	/media/reza/ADATA HD710 PRO/HAS/HAS/build/Desktop_Qt_6_6_3_GCC_64bit-Debug/content/images/his.svg	6c41da85c45519a2
+371	422	1714414638991017300	content/images/food_drink.svg	b9aac5b53428ba57
+371	422	1714414638991017300	/media/reza/ADATA HD710 PRO/HAS/HAS/build/Desktop_Qt_6_6_3_GCC_64bit-Debug/content/images/food_drink.svg	b9aac5b53428ba57
+374	422	1714414638991017300	content/images/light_off.svg	9f17b05113607d55
+374	422	1714414638991017300	/media/reza/ADATA HD710 PRO/HAS/HAS/build/Desktop_Qt_6_6_3_GCC_64bit-Debug/content/images/light_off.svg	9f17b05113607d55
+374	423	1714414638991017300	content/images/e5f2c367b71da3f12a30780f30af4fbc.svg	bf1486f70d9602be
+374	423	1714414638991017300	/media/reza/ADATA HD710 PRO/HAS/HAS/build/Desktop_Qt_6_6_3_GCC_64bit-Debug/content/images/e5f2c367b71da3f12a30780f30af4fbc.svg	bf1486f70d9602be
+375	425	1714414638999017300	content/images/entertainment.svg	c2ea6ec83eb49a26
+375	425	1714414638999017300	/media/reza/ADATA HD710 PRO/HAS/HAS/build/Desktop_Qt_6_6_3_GCC_64bit-Debug/content/images/entertainment.svg	c2ea6ec83eb49a26
+375	425	1714414638999017300	content/images/d81f442fc4204146e3dc72044029e13d.svg	6cf9bf10d9773b22
+375	425	1714414638999017300	/media/reza/ADATA HD710 PRO/HAS/HAS/build/Desktop_Qt_6_6_3_GCC_64bit-Debug/content/images/d81f442fc4204146e3dc72044029e13d.svg	6cf9bf10d9773b22
+377	433	1714414638999017300	content/images/light_on.svg	c6bb91e4474da6c6
+377	433	1714414638999017300	/media/reza/ADATA HD710 PRO/HAS/HAS/build/Desktop_Qt_6_6_3_GCC_64bit-Debug/content/images/light_on.svg	c6bb91e4474da6c6
+377	441	1714414638999017300	content/images/baa1943a8a093f82bb4fe521f1d348ad.svg	de42274178f1a76e
+377	441	1714414638999017300	/media/reza/ADATA HD710 PRO/HAS/HAS/build/Desktop_Qt_6_6_3_GCC_64bit-Debug/content/images/baa1943a8a093f82bb4fe521f1d348ad.svg	de42274178f1a76e
+377	442	1714414638999017300	content/images/curtain_shadow_handle.png	6292398392538b9d
+377	442	1714414638999017300	/media/reza/ADATA HD710 PRO/HAS/HAS/build/Desktop_Qt_6_6_3_GCC_64bit-Debug/content/images/curtain_shadow_handle.png	6292398392538b9d
+377	449	1714414638999017300	content/images/card_reader.svg	cafc896dc18d3d95
+377	449	1714414638999017300	/media/reza/ADATA HD710 PRO/HAS/HAS/build/Desktop_Qt_6_6_3_GCC_64bit-Debug/content/images/card_reader.svg	cafc896dc18d3d95
+378	453	1714414639003017200	content/images/calories.png	25b6a394db94d1f4
+378	453	1714414639003017200	/media/reza/ADATA HD710 PRO/HAS/HAS/build/Desktop_Qt_6_6_3_GCC_64bit-Debug/content/images/calories.png	25b6a394db94d1f4
+379	457	1714414639003017200	content/images/blue_circle_gps_area.png	8adcb7c57779fbb4
+379	457	1714414639003017200	/media/reza/ADATA HD710 PRO/HAS/HAS/build/Desktop_Qt_6_6_3_GCC_64bit-Debug/content/images/blue_circle_gps_area.png	8adcb7c57779fbb4
+379	460	1714414639007017200	content/images/bike-rearwheel.png	37db2f403958b528
+379	460	1714414639007017200	/media/reza/ADATA HD710 PRO/HAS/HAS/build/Desktop_Qt_6_6_3_GCC_64bit-Debug/content/images/bike-rearwheel.png	37db2f403958b528
+384	465	1714414639007017200	content/images/door_open.svg	b6ebacff2fd003b8
+384	465	1714414639007017200	/media/reza/ADATA HD710 PRO/HAS/HAS/build/Desktop_Qt_6_6_3_GCC_64bit-Debug/content/images/door_open.svg	b6ebacff2fd003b8
+391	465	1714414639007017200	content/images/battery.png	5ad0853b054aebc9
+391	465	1714414639007017200	/media/reza/ADATA HD710 PRO/HAS/HAS/build/Desktop_Qt_6_6_3_GCC_64bit-Debug/content/images/battery.png	5ad0853b054aebc9
+397	466	1714414639015017200	content/images/923a63a0211545034e74bde0b17c5e95.svg	a716c3da20c89324
+397	466	1714414639015017200	/media/reza/ADATA HD710 PRO/HAS/HAS/build/Desktop_Qt_6_6_3_GCC_64bit-Debug/content/images/923a63a0211545034e74bde0b17c5e95.svg	a716c3da20c89324
+397	466	1714414639015017200	content/images/assist.png	106139ab5fec6501
+397	466	1714414639015017200	/media/reza/ADATA HD710 PRO/HAS/HAS/build/Desktop_Qt_6_6_3_GCC_64bit-Debug/content/images/assist.png	106139ab5fec6501
+399	466	1714414639015017200	content/images/arrow_right.png	301d71b5be4deda4
+399	466	1714414639015017200	/media/reza/ADATA HD710 PRO/HAS/HAS/build/Desktop_Qt_6_6_3_GCC_64bit-Debug/content/images/arrow_right.png	301d71b5be4deda4
+404	467	1714414639023017100	content/images/arrow_left.png	d92b1ac862413c43
+404	467	1714414639023017100	/media/reza/ADATA HD710 PRO/HAS/HAS/build/Desktop_Qt_6_6_3_GCC_64bit-Debug/content/images/arrow_left.png	d92b1ac862413c43
+406	467	1714414639027017100	content/images/900b0459efed171b6183dbbbb2da52b9.svg	193a65c87fb9b617
+406	467	1714414639027017100	/media/reza/ADATA HD710 PRO/HAS/HAS/build/Desktop_Qt_6_6_3_GCC_64bit-Debug/content/images/900b0459efed171b6183dbbbb2da52b9.svg	193a65c87fb9b617
+409	467	1714414639027017100	content/images/78ca4b82930cb1b157fa9c0f35b81610.svg	125cb108453fc141
+409	467	1714414639027017100	/media/reza/ADATA HD710 PRO/HAS/HAS/build/Desktop_Qt_6_6_3_GCC_64bit-Debug/content/images/78ca4b82930cb1b157fa9c0f35b81610.svg	125cb108453fc141
+410	467	1714414639027017100	content/images/623944aadf2c9240e22216ec1362cf9b.svg	2b2a5931c1c69b60
+410	467	1714414639027017100	/media/reza/ADATA HD710 PRO/HAS/HAS/build/Desktop_Qt_6_6_3_GCC_64bit-Debug/content/images/623944aadf2c9240e22216ec1362cf9b.svg	2b2a5931c1c69b60
+411	467	1714414639031017100	content/images/window_close.svg	ebcd620baf741bc0
+411	467	1714414639031017100	/media/reza/ADATA HD710 PRO/HAS/HAS/build/Desktop_Qt_6_6_3_GCC_64bit-Debug/content/images/window_close.svg	ebcd620baf741bc0
+413	469	1714414639035017100	content/images/45060a96cb01ed30d524a273ddbc162a.svg	4c3724a1eadcc827
+413	469	1714414639035017100	/media/reza/ADATA HD710 PRO/HAS/HAS/build/Desktop_Qt_6_6_3_GCC_64bit-Debug/content/images/45060a96cb01ed30d524a273ddbc162a.svg	4c3724a1eadcc827
+417	471	1714414639035017100	content/images/3a1c16858fcc6828ae86ac2bdd7afa5d.svg	1a655544c8c71275
+417	471	1714414639035017100	/media/reza/ADATA HD710 PRO/HAS/HAS/build/Desktop_Qt_6_6_3_GCC_64bit-Debug/content/images/3a1c16858fcc6828ae86ac2bdd7afa5d.svg	1a655544c8c71275
+57	474	1714414639079016800	content/contentplugin_autogen/timestamp	660df25ccbcc694a
+57	474	1714414639079016800	content/contentplugin_autogen/mocs_compilation.cpp	660df25ccbcc694a
+57	474	1714414639079016800	/media/reza/ADATA HD710 PRO/HAS/HAS/build/Desktop_Qt_6_6_3_GCC_64bit-Debug/content/contentplugin_autogen/timestamp	660df25ccbcc694a
+57	474	1714414639079016800	/media/reza/ADATA HD710 PRO/HAS/HAS/build/Desktop_Qt_6_6_3_GCC_64bit-Debug/content/contentplugin_autogen/mocs_compilation.cpp	660df25ccbcc694a
+418	474	1714414639035017100	content/images/door_close.svg	5abf2f01687b1c82
+418	474	1714414639035017100	/media/reza/ADATA HD710 PRO/HAS/HAS/build/Desktop_Qt_6_6_3_GCC_64bit-Debug/content/images/door_close.svg	5abf2f01687b1c82
+419	475	1714414639039017000	content/images/2efdd936737e33835e28cd6724149bfe.svg	86ee5bdccc80594a
+419	475	1714414639039017000	/media/reza/ADATA HD710 PRO/HAS/HAS/build/Desktop_Qt_6_6_3_GCC_64bit-Debug/content/images/2efdd936737e33835e28cd6724149bfe.svg	86ee5bdccc80594a
+419	477	1714414639039017000	content/images/1e442ef6791cea9b85a0cd2e747037d3.svg	9a2a0f6438951d02
+419	477	1714414639039017000	/media/reza/ADATA HD710 PRO/HAS/HAS/build/Desktop_Qt_6_6_3_GCC_64bit-Debug/content/images/1e442ef6791cea9b85a0cd2e747037d3.svg	9a2a0f6438951d02
+419	478	1714414639039017000	content/images/1d1c1b6f47ca7104c9684c150f954c59.svg	69dc104e4b52aca6
+419	478	1714414639039017000	/media/reza/ADATA HD710 PRO/HAS/HAS/build/Desktop_Qt_6_6_3_GCC_64bit-Debug/content/images/1d1c1b6f47ca7104c9684c150f954c59.svg	69dc104e4b52aca6
+420	479	1714414639039017000	content/images/01d2414d380d00dc22e9c0adf764c935.svg	35ecb20d5e65c9e7
+420	479	1714414639039017000	/media/reza/ADATA HD710 PRO/HAS/HAS/build/Desktop_Qt_6_6_3_GCC_64bit-Debug/content/images/01d2414d380d00dc22e9c0adf764c935.svg	35ecb20d5e65c9e7
+420	480	1714414639043017000	content/images/window_open.svg	189cd56b3956c96f
+420	480	1714414639043017000	/media/reza/ADATA HD710 PRO/HAS/HAS/build/Desktop_Qt_6_6_3_GCC_64bit-Debug/content/images/window_open.svg	189cd56b3956c96f
+420	481	1714414639043017000	content/fonts/NotoSans-SemiCondensedThinItalic.ttf	4979e6100b3a0c36
+420	481	1714414639043017000	/media/reza/ADATA HD710 PRO/HAS/HAS/build/Desktop_Qt_6_6_3_GCC_64bit-Debug/content/fonts/NotoSans-SemiCondensedThinItalic.ttf	4979e6100b3a0c36
+421	483	1714414639043017000	content/fonts/Nabi.ttf	2575b43f4d0a557a
+421	483	1714414639043017000	/media/reza/ADATA HD710 PRO/HAS/HAS/build/Desktop_Qt_6_6_3_GCC_64bit-Debug/content/fonts/Nabi.ttf	2575b43f4d0a557a
+422	484	1714414639043017000	content/fonts/Far_Nazanin.ttf	f7f3ee91803b5b67
+422	484	1714414639043017000	/media/reza/ADATA HD710 PRO/HAS/HAS/build/Desktop_Qt_6_6_3_GCC_64bit-Debug/content/fonts/Far_Nazanin.ttf	f7f3ee91803b5b67
+422	484	1714414639043017000	content/fonts/NotoSans-ThinItalic.ttf	7b91100d8f0b595a
+422	484	1714414639043017000	/media/reza/ADATA HD710 PRO/HAS/HAS/build/Desktop_Qt_6_6_3_GCC_64bit-Debug/content/fonts/NotoSans-ThinItalic.ttf	7b91100d8f0b595a
+422	485	1714414639043017000	content/fonts/NotoSans-Thin.ttf	1ad7e6f75ae9356e
+422	485	1714414639043017000	/media/reza/ADATA HD710 PRO/HAS/HAS/build/Desktop_Qt_6_6_3_GCC_64bit-Debug/content/fonts/NotoSans-Thin.ttf	1ad7e6f75ae9356e
+423	489	1714414639043017000	content/fonts/NotoSans-SemiCondensedThin.ttf	1458436ee858e360
+423	489	1714414639043017000	/media/reza/ADATA HD710 PRO/HAS/HAS/build/Desktop_Qt_6_6_3_GCC_64bit-Debug/content/fonts/NotoSans-SemiCondensedThin.ttf	1458436ee858e360
+425	491	1714414639043017000	content/fonts/NotoSans-SemiCondensedSemiBoldItalic.ttf	52064c8cfe9da66b
+425	491	1714414639043017000	/media/reza/ADATA HD710 PRO/HAS/HAS/build/Desktop_Qt_6_6_3_GCC_64bit-Debug/content/fonts/NotoSans-SemiCondensedSemiBoldItalic.ttf	52064c8cfe9da66b
+425	492	1714414639047017000	content/fonts/NotoSans-SemiCondensedSemiBold.ttf	6f88c6db7b9dba84
+425	492	1714414639047017000	/media/reza/ADATA HD710 PRO/HAS/HAS/build/Desktop_Qt_6_6_3_GCC_64bit-Debug/content/fonts/NotoSans-SemiCondensedSemiBold.ttf	6f88c6db7b9dba84
+433	492	1714414639055017000	content/fonts/NotoSans-SemiCondensedMediumItalic.ttf	5f9b29b3f264f581
+433	492	1714414639055017000	/media/reza/ADATA HD710 PRO/HAS/HAS/build/Desktop_Qt_6_6_3_GCC_64bit-Debug/content/fonts/NotoSans-SemiCondensedMediumItalic.ttf	5f9b29b3f264f581
+441	494	1714414639063016900	content/fonts/NotoSans-SemiCondensedMedium.ttf	1388c0935088decd
+441	494	1714414639063016900	/media/reza/ADATA HD710 PRO/HAS/HAS/build/Desktop_Qt_6_6_3_GCC_64bit-Debug/content/fonts/NotoSans-SemiCondensedMedium.ttf	1388c0935088decd
+442	495	1714414639063016900	content/fonts/NotoSans-SemiCondensedLightItalic.ttf	5af2f497c4f850a6
+442	495	1714414639063016900	/media/reza/ADATA HD710 PRO/HAS/HAS/build/Desktop_Qt_6_6_3_GCC_64bit-Debug/content/fonts/NotoSans-SemiCondensedLightItalic.ttf	5af2f497c4f850a6
+449	495	1714414639067016900	content/fonts/NotoSans-SemiCondensedLight.ttf	e9b8af71c658db4a
+449	495	1714414639067016900	/media/reza/ADATA HD710 PRO/HAS/HAS/build/Desktop_Qt_6_6_3_GCC_64bit-Debug/content/fonts/NotoSans-SemiCondensedLight.ttf	e9b8af71c658db4a
+453	497	1714414639071016900	content/fonts/NotoSans-SemiCondensedItalic.ttf	d7f013b507b42764
+453	497	1714414639071016900	/media/reza/ADATA HD710 PRO/HAS/HAS/build/Desktop_Qt_6_6_3_GCC_64bit-Debug/content/fonts/NotoSans-SemiCondensedItalic.ttf	d7f013b507b42764
+457	497	1714414639079016800	content/fonts/NotoSans-SemiCondensedExtraLightItalic.ttf	ebd2d3b74cbef536
+457	497	1714414639079016800	/media/reza/ADATA HD710 PRO/HAS/HAS/build/Desktop_Qt_6_6_3_GCC_64bit-Debug/content/fonts/NotoSans-SemiCondensedExtraLightItalic.ttf	ebd2d3b74cbef536
+460	497	1714414639079016800	content/fonts/NotoSans-SemiCondensedExtraLight.ttf	11279cbecbf0efa7
+460	497	1714414639079016800	/media/reza/ADATA HD710 PRO/HAS/HAS/build/Desktop_Qt_6_6_3_GCC_64bit-Debug/content/fonts/NotoSans-SemiCondensedExtraLight.ttf	11279cbecbf0efa7
+465	497	1714414639083016800	content/fonts/NotoSans-SemiCondensedExtraBoldItalic.ttf	6e6e68e64724430f
+465	497	1714414639083016800	/media/reza/ADATA HD710 PRO/HAS/HAS/build/Desktop_Qt_6_6_3_GCC_64bit-Debug/content/fonts/NotoSans-SemiCondensedExtraBoldItalic.ttf	6e6e68e64724430f
+465	501	1714414639083016800	content/fonts/NotoSans-SemiCondensedExtraBold.ttf	f25f0f3b220f7a8e
+465	501	1714414639083016800	/media/reza/ADATA HD710 PRO/HAS/HAS/build/Desktop_Qt_6_6_3_GCC_64bit-Debug/content/fonts/NotoSans-SemiCondensedExtraBold.ttf	f25f0f3b220f7a8e
+466	501	1714414639083016800	content/fonts/NotoSans-SemiCondensedBoldItalic.ttf	ce44d01caba6699e
+466	501	1714414639083016800	/media/reza/ADATA HD710 PRO/HAS/HAS/build/Desktop_Qt_6_6_3_GCC_64bit-Debug/content/fonts/NotoSans-SemiCondensedBoldItalic.ttf	ce44d01caba6699e
+466	502	1714414639083016800	content/fonts/NotoSans-SemiCondensedBold.ttf	87b31c5137f2e245
+466	502	1714414639083016800	/media/reza/ADATA HD710 PRO/HAS/HAS/build/Desktop_Qt_6_6_3_GCC_64bit-Debug/content/fonts/NotoSans-SemiCondensedBold.ttf	87b31c5137f2e245
+466	502	1714414639083016800	content/fonts/NotoSans-SemiCondensedBlackItalic.ttf	e1f956902ce1d0bd
+466	502	1714414639083016800	/media/reza/ADATA HD710 PRO/HAS/HAS/build/Desktop_Qt_6_6_3_GCC_64bit-Debug/content/fonts/NotoSans-SemiCondensedBlackItalic.ttf	e1f956902ce1d0bd
+467	503	1714414639087016800	content/fonts/NotoSans-SemiCondensedBlack.ttf	d10f15776e930abb
+467	503	1714414639087016800	/media/reza/ADATA HD710 PRO/HAS/HAS/build/Desktop_Qt_6_6_3_GCC_64bit-Debug/content/fonts/NotoSans-SemiCondensedBlack.ttf	d10f15776e930abb
+467	503	1714414639087016800	content/fonts/NotoSans-ExtraCondensedThinItalic.ttf	a4787d2ed0e4bd62
+467	503	1714414639087016800	/media/reza/ADATA HD710 PRO/HAS/HAS/build/Desktop_Qt_6_6_3_GCC_64bit-Debug/content/fonts/NotoSans-ExtraCondensedThinItalic.ttf	a4787d2ed0e4bd62
+467	507	1714414639087016800	content/fonts/NotoSans-SemiCondensed.ttf	9aa373229b19eb78
+467	507	1714414639087016800	/media/reza/ADATA HD710 PRO/HAS/HAS/build/Desktop_Qt_6_6_3_GCC_64bit-Debug/content/fonts/NotoSans-SemiCondensed.ttf	9aa373229b19eb78
+467	508	1714414639087016800	content/fonts/NotoSans-SemiBoldItalic.ttf	9e59cbbd142698a0
+467	508	1714414639087016800	/media/reza/ADATA HD710 PRO/HAS/HAS/build/Desktop_Qt_6_6_3_GCC_64bit-Debug/content/fonts/NotoSans-SemiBoldItalic.ttf	9e59cbbd142698a0
+467	509	1714414639087016800	content/fonts/NotoSans-SemiBold.ttf	f65d48a68a4ae0c0
+467	509	1714414639087016800	/media/reza/ADATA HD710 PRO/HAS/HAS/build/Desktop_Qt_6_6_3_GCC_64bit-Debug/content/fonts/NotoSans-SemiBold.ttf	f65d48a68a4ae0c0
+469	509	1714414639087016800	content/fonts/NotoSans-Regular.ttf	63819df64f54835e
+469	509	1714414639087016800	/media/reza/ADATA HD710 PRO/HAS/HAS/build/Desktop_Qt_6_6_3_GCC_64bit-Debug/content/fonts/NotoSans-Regular.ttf	63819df64f54835e
+471	509	1714414639091016800	content/fonts/NotoSans-MediumItalic.ttf	5345a43039157652
+471	509	1714414639091016800	/media/reza/ADATA HD710 PRO/HAS/HAS/build/Desktop_Qt_6_6_3_GCC_64bit-Debug/content/fonts/NotoSans-MediumItalic.ttf	5345a43039157652
+474	509	1714414639095016700	content/fonts/NotoSans-Medium.ttf	85cd28346b8ffc8c
+474	509	1714414639095016700	/media/reza/ADATA HD710 PRO/HAS/HAS/build/Desktop_Qt_6_6_3_GCC_64bit-Debug/content/fonts/NotoSans-Medium.ttf	85cd28346b8ffc8c
+474	510	1714414639091016800	content/fonts/NotoSans-LightItalic.ttf	e08f7e7e17d0bfed
+474	510	1714414639091016800	/media/reza/ADATA HD710 PRO/HAS/HAS/build/Desktop_Qt_6_6_3_GCC_64bit-Debug/content/fonts/NotoSans-LightItalic.ttf	e08f7e7e17d0bfed
+475	510	1714414639095016700	content/fonts/NotoSans-Light.ttf	eac106125f513b03
+475	510	1714414639095016700	/media/reza/ADATA HD710 PRO/HAS/HAS/build/Desktop_Qt_6_6_3_GCC_64bit-Debug/content/fonts/NotoSans-Light.ttf	eac106125f513b03
+477	511	1714414639095016700	content/fonts/NotoSans-Italic.ttf	fbbff14d0b0a894c
+477	511	1714414639095016700	/media/reza/ADATA HD710 PRO/HAS/HAS/build/Desktop_Qt_6_6_3_GCC_64bit-Debug/content/fonts/NotoSans-Italic.ttf	fbbff14d0b0a894c
+478	513	1714414639095016700	content/fonts/NotoSans-ExtraLightItalic.ttf	bbc273377006a5e0
+478	513	1714414639095016700	/media/reza/ADATA HD710 PRO/HAS/HAS/build/Desktop_Qt_6_6_3_GCC_64bit-Debug/content/fonts/NotoSans-ExtraLightItalic.ttf	bbc273377006a5e0
+479	513	1714414639099016700	content/fonts/NotoSans-ExtraLight.ttf	fabba6c4000ab880
+479	513	1714414639099016700	/media/reza/ADATA HD710 PRO/HAS/HAS/build/Desktop_Qt_6_6_3_GCC_64bit-Debug/content/fonts/NotoSans-ExtraLight.ttf	fabba6c4000ab880
+480	514	1714414639099016700	content/fonts/NotoSans-ExtraCondensedThin.ttf	415900361ee17cb2
+480	514	1714414639099016700	/media/reza/ADATA HD710 PRO/HAS/HAS/build/Desktop_Qt_6_6_3_GCC_64bit-Debug/content/fonts/NotoSans-ExtraCondensedThin.ttf	415900361ee17cb2
+481	515	1714414639103016700	content/fonts/NotoSans-ExtraCondensedMediumItalic.ttf	2d3c450779b4f096
+481	515	1714414639103016700	/media/reza/ADATA HD710 PRO/HAS/HAS/build/Desktop_Qt_6_6_3_GCC_64bit-Debug/content/fonts/NotoSans-ExtraCondensedMediumItalic.ttf	2d3c450779b4f096
+483	515	1714414639103016700	content/fonts/NotoSans-ExtraCondensedMedium.ttf	854ffc868a04e27e
+483	515	1714414639103016700	/media/reza/ADATA HD710 PRO/HAS/HAS/build/Desktop_Qt_6_6_3_GCC_64bit-Debug/content/fonts/NotoSans-ExtraCondensedMedium.ttf	854ffc868a04e27e
+484	515	1714414639107016700	content/fonts/NotoSans-ExtraCondensedLightItalic.ttf	212015225ee64d19
+484	515	1714414639107016700	/media/reza/ADATA HD710 PRO/HAS/HAS/build/Desktop_Qt_6_6_3_GCC_64bit-Debug/content/fonts/NotoSans-ExtraCondensedLightItalic.ttf	212015225ee64d19
+484	515	1714414639107016700	content/fonts/NotoSans-ExtraCondensedLight.ttf	50259a3f84a69a7
+484	515	1714414639107016700	/media/reza/ADATA HD710 PRO/HAS/HAS/build/Desktop_Qt_6_6_3_GCC_64bit-Debug/content/fonts/NotoSans-ExtraCondensedLight.ttf	50259a3f84a69a7
+485	520	1714414639107016700	content/fonts/NotoSans-ExtraCondensedItalic.ttf	4347b19832c75c16
+485	520	1714414639107016700	/media/reza/ADATA HD710 PRO/HAS/HAS/build/Desktop_Qt_6_6_3_GCC_64bit-Debug/content/fonts/NotoSans-ExtraCondensedItalic.ttf	4347b19832c75c16
+489	520	1714414639111016700	content/fonts/NotoSans-ExtraCondensedExtraLightItalic.ttf	2fcf51978ab2be59
+489	520	1714414639111016700	/media/reza/ADATA HD710 PRO/HAS/HAS/build/Desktop_Qt_6_6_3_GCC_64bit-Debug/content/fonts/NotoSans-ExtraCondensedExtraLightItalic.ttf	2fcf51978ab2be59
+491	520	1714414639111016700	content/fonts/NotoSans-ExtraCondensedExtraLight.ttf	54b208386f6e2aab
+491	520	1714414639111016700	/media/reza/ADATA HD710 PRO/HAS/HAS/build/Desktop_Qt_6_6_3_GCC_64bit-Debug/content/fonts/NotoSans-ExtraCondensedExtraLight.ttf	54b208386f6e2aab
+492	520	1714414639111016700	content/fonts/NotoSans-ExtraCondensedExtraBoldItalic.ttf	874f2fca836413f6
+492	520	1714414639111016700	/media/reza/ADATA HD710 PRO/HAS/HAS/build/Desktop_Qt_6_6_3_GCC_64bit-Debug/content/fonts/NotoSans-ExtraCondensedExtraBoldItalic.ttf	874f2fca836413f6
+492	521	1714414639111016700	content/fonts/NotoSans-ExtraCondensedExtraBold.ttf	29e09349ca751bea
+492	521	1714414639111016700	/media/reza/ADATA HD710 PRO/HAS/HAS/build/Desktop_Qt_6_6_3_GCC_64bit-Debug/content/fonts/NotoSans-ExtraCondensedExtraBold.ttf	29e09349ca751bea
+494	521	1714414639115016600	content/fonts/NotoSans-ExtraCondensedBoldItalic.ttf	ce8e27a7ddc43745
+494	521	1714414639115016600	/media/reza/ADATA HD710 PRO/HAS/HAS/build/Desktop_Qt_6_6_3_GCC_64bit-Debug/content/fonts/NotoSans-ExtraCondensedBoldItalic.ttf	ce8e27a7ddc43745
+495	522	1714414639115016600	content/fonts/NotoSans-ExtraCondensedBold.ttf	318cc5ede2ab9c3f
+495	522	1714414639115016600	/media/reza/ADATA HD710 PRO/HAS/HAS/build/Desktop_Qt_6_6_3_GCC_64bit-Debug/content/fonts/NotoSans-ExtraCondensedBold.ttf	318cc5ede2ab9c3f
+496	525	1714414639115016600	content/fonts/NotoSans-ExtraCondensedBlackItalic.ttf	4502f9c4f70ee893
+496	525	1714414639115016600	/media/reza/ADATA HD710 PRO/HAS/HAS/build/Desktop_Qt_6_6_3_GCC_64bit-Debug/content/fonts/NotoSans-ExtraCondensedBlackItalic.ttf	4502f9c4f70ee893
+497	525	1714414639115016600	content/fonts/NotoSans-ExtraCondensedBlack.ttf	33abe37bcfbdc269
+497	525	1714414639115016600	/media/reza/ADATA HD710 PRO/HAS/HAS/build/Desktop_Qt_6_6_3_GCC_64bit-Debug/content/fonts/NotoSans-ExtraCondensedBlack.ttf	33abe37bcfbdc269
+497	529	1714414639115016600	content/fonts/NotoSans-CondensedThinItalic.ttf	91c1cf03f93c9a10
+497	529	1714414639115016600	/media/reza/ADATA HD710 PRO/HAS/HAS/build/Desktop_Qt_6_6_3_GCC_64bit-Debug/content/fonts/NotoSans-CondensedThinItalic.ttf	91c1cf03f93c9a10
+497	529	1714414639115016600	content/fonts/NotoSans-ExtraCondensed.ttf	de3bcce20ce0d0ad
+497	529	1714414639115016600	/media/reza/ADATA HD710 PRO/HAS/HAS/build/Desktop_Qt_6_6_3_GCC_64bit-Debug/content/fonts/NotoSans-ExtraCondensed.ttf	de3bcce20ce0d0ad
+497	529	1714414639119016600	content/fonts/NotoSans-ExtraBoldItalic.ttf	2b2c1ef517278d7c
+497	529	1714414639119016600	/media/reza/ADATA HD710 PRO/HAS/HAS/build/Desktop_Qt_6_6_3_GCC_64bit-Debug/content/fonts/NotoSans-ExtraBoldItalic.ttf	2b2c1ef517278d7c
+501	529	1714414639119016600	content/fonts/NotoSans-ExtraBold.ttf	f96f87299fc3ac18
+501	529	1714414639119016600	/media/reza/ADATA HD710 PRO/HAS/HAS/build/Desktop_Qt_6_6_3_GCC_64bit-Debug/content/fonts/NotoSans-ExtraBold.ttf	f96f87299fc3ac18
+501	533	1714414639119016600	content/fonts/NotoSans-CondensedSemiBoldItalic.ttf	71cfe8dbf222e4be
+501	533	1714414639119016600	/media/reza/ADATA HD710 PRO/HAS/HAS/build/Desktop_Qt_6_6_3_GCC_64bit-Debug/content/fonts/NotoSans-CondensedSemiBoldItalic.ttf	71cfe8dbf222e4be
+502	534	1714414639123016600	content/fonts/NotoSans-CondensedThin.ttf	3e34eba0b461c070
+502	534	1714414639123016600	/media/reza/ADATA HD710 PRO/HAS/HAS/build/Desktop_Qt_6_6_3_GCC_64bit-Debug/content/fonts/NotoSans-CondensedThin.ttf	3e34eba0b461c070
+502	534	1714414639123016600	content/fonts/NotoSans-CondensedSemiBold.ttf	450c2febc8f6fc83
+502	534	1714414639123016600	/media/reza/ADATA HD710 PRO/HAS/HAS/build/Desktop_Qt_6_6_3_GCC_64bit-Debug/content/fonts/NotoSans-CondensedSemiBold.ttf	450c2febc8f6fc83
+503	539	1714414639123016600	content/fonts/NotoSans-CondensedMediumItalic.ttf	6ffacf4c36d82fee
+503	539	1714414639123016600	/media/reza/ADATA HD710 PRO/HAS/HAS/build/Desktop_Qt_6_6_3_GCC_64bit-Debug/content/fonts/NotoSans-CondensedMediumItalic.ttf	6ffacf4c36d82fee
+503	539	1714414639123016600	content/fonts/NotoSans-CondensedLightItalic.ttf	1f69324fa7d97e95
+503	539	1714414639123016600	/media/reza/ADATA HD710 PRO/HAS/HAS/build/Desktop_Qt_6_6_3_GCC_64bit-Debug/content/fonts/NotoSans-CondensedLightItalic.ttf	1f69324fa7d97e95
+507	549	1714414639127016600	content/fonts/NotoSans-CondensedMedium.ttf	d2b1e169c14f3e3e
+507	549	1714414639127016600	/media/reza/ADATA HD710 PRO/HAS/HAS/build/Desktop_Qt_6_6_3_GCC_64bit-Debug/content/fonts/NotoSans-CondensedMedium.ttf	d2b1e169c14f3e3e
+508	549	1714414639131016500	content/fonts/NotoSans-CondensedExtraLightItalic.ttf	8d9bc2a9ead07840
+508	549	1714414639131016500	/media/reza/ADATA HD710 PRO/HAS/HAS/build/Desktop_Qt_6_6_3_GCC_64bit-Debug/content/fonts/NotoSans-CondensedExtraLightItalic.ttf	8d9bc2a9ead07840
+509	549	1714414639127016600	content/fonts/NotoSans-CondensedLight.ttf	df076ef4908dd86d
+509	549	1714414639127016600	/media/reza/ADATA HD710 PRO/HAS/HAS/build/Desktop_Qt_6_6_3_GCC_64bit-Debug/content/fonts/NotoSans-CondensedLight.ttf	df076ef4908dd86d
+509	549	1714414639127016600	content/fonts/NotoSans-CondensedItalic.ttf	10f86a549b2ba262
+509	549	1714414639127016600	/media/reza/ADATA HD710 PRO/HAS/HAS/build/Desktop_Qt_6_6_3_GCC_64bit-Debug/content/fonts/NotoSans-CondensedItalic.ttf	10f86a549b2ba262
+509	549	1714414639131016500	content/fonts/NotoSans-CondensedExtraLight.ttf	258357c85318d9f5
+509	549	1714414639131016500	/media/reza/ADATA HD710 PRO/HAS/HAS/build/Desktop_Qt_6_6_3_GCC_64bit-Debug/content/fonts/NotoSans-CondensedExtraLight.ttf	258357c85318d9f5
+509	549	1714414639131016500	content/fonts/NotoSans-CondensedExtraBoldItalic.ttf	2ba63d60a660db81
+509	549	1714414639131016500	/media/reza/ADATA HD710 PRO/HAS/HAS/build/Desktop_Qt_6_6_3_GCC_64bit-Debug/content/fonts/NotoSans-CondensedExtraBoldItalic.ttf	2ba63d60a660db81
+510	549	1714414639127016600	content/fonts/NotoSans-CondensedExtraBold.ttf	ca0e33304efe1fdf
+510	549	1714414639127016600	/media/reza/ADATA HD710 PRO/HAS/HAS/build/Desktop_Qt_6_6_3_GCC_64bit-Debug/content/fonts/NotoSans-CondensedExtraBold.ttf	ca0e33304efe1fdf
+510	549	1714414639131016500	content/fonts/NotoSans-CondensedBoldItalic.ttf	f21f57bf8987c0f0
+510	549	1714414639131016500	/media/reza/ADATA HD710 PRO/HAS/HAS/build/Desktop_Qt_6_6_3_GCC_64bit-Debug/content/fonts/NotoSans-CondensedBoldItalic.ttf	f21f57bf8987c0f0
+511	549	1714414639131016500	content/fonts/NotoSans-CondensedBlackItalic.ttf	a07e17a24c3099f9
+511	549	1714414639131016500	/media/reza/ADATA HD710 PRO/HAS/HAS/build/Desktop_Qt_6_6_3_GCC_64bit-Debug/content/fonts/NotoSans-CondensedBlackItalic.ttf	a07e17a24c3099f9
+513	549	1714414639131016500	content/fonts/NotoSans-CondensedBold.ttf	1e63c72dccf30c72
+513	549	1714414639131016500	/media/reza/ADATA HD710 PRO/HAS/HAS/build/Desktop_Qt_6_6_3_GCC_64bit-Debug/content/fonts/NotoSans-CondensedBold.ttf	1e63c72dccf30c72
+513	549	1714414639131016500	content/fonts/CooperHewitt-SemiboldItalic.ttf	7cadd3a27e36ade5
+513	549	1714414639131016500	/media/reza/ADATA HD710 PRO/HAS/HAS/build/Desktop_Qt_6_6_3_GCC_64bit-Debug/content/fonts/CooperHewitt-SemiboldItalic.ttf	7cadd3a27e36ade5
+515	549	1714414639135016500	content/fonts/NotoSans-CondensedBlack.ttf	13d446296a9c699b
+515	549	1714414639135016500	/media/reza/ADATA HD710 PRO/HAS/HAS/build/Desktop_Qt_6_6_3_GCC_64bit-Debug/content/fonts/NotoSans-CondensedBlack.ttf	13d446296a9c699b
+515	549	1714414639131016500	content/fonts/NotoSans-Condensed.ttf	b3140224c45f236f
+515	549	1714414639131016500	/media/reza/ADATA HD710 PRO/HAS/HAS/build/Desktop_Qt_6_6_3_GCC_64bit-Debug/content/fonts/NotoSans-Condensed.ttf	b3140224c45f236f
+515	549	1714414639135016500	content/fonts/NotoSans-BoldItalic.ttf	8d0470a02dcdc9ad
+515	549	1714414639135016500	/media/reza/ADATA HD710 PRO/HAS/HAS/build/Desktop_Qt_6_6_3_GCC_64bit-Debug/content/fonts/NotoSans-BoldItalic.ttf	8d0470a02dcdc9ad
+515	550	1714414639135016500	content/fonts/NotoSans-Bold.ttf	62c7de3ad1b44652
+515	550	1714414639135016500	/media/reza/ADATA HD710 PRO/HAS/HAS/build/Desktop_Qt_6_6_3_GCC_64bit-Debug/content/fonts/NotoSans-Bold.ttf	62c7de3ad1b44652
+515	550	1714414639139016500	content/fonts/NotoSans-BlackItalic.ttf	4aa1a315eae91b57
+515	550	1714414639139016500	/media/reza/ADATA HD710 PRO/HAS/HAS/build/Desktop_Qt_6_6_3_GCC_64bit-Debug/content/fonts/NotoSans-BlackItalic.ttf	4aa1a315eae91b57
+520	550	1714414639139016500	content/fonts/NotoSans-Black.ttf	70f4adc90818f1cc
+520	550	1714414639139016500	/media/reza/ADATA HD710 PRO/HAS/HAS/build/Desktop_Qt_6_6_3_GCC_64bit-Debug/content/fonts/NotoSans-Black.ttf	70f4adc90818f1cc
+520	550	1714414639139016500	content/fonts/CooperHewitt-ThinItalic.ttf	6832e04c0d107ded
+520	550	1714414639139016500	/media/reza/ADATA HD710 PRO/HAS/HAS/build/Desktop_Qt_6_6_3_GCC_64bit-Debug/content/fonts/CooperHewitt-ThinItalic.ttf	6832e04c0d107ded
+520	550	1714414639139016500	content/fonts/CooperHewitt-Thin.ttf	4a2358d5c3ccc37
+520	550	1714414639139016500	/media/reza/ADATA HD710 PRO/HAS/HAS/build/Desktop_Qt_6_6_3_GCC_64bit-Debug/content/fonts/CooperHewitt-Thin.ttf	4a2358d5c3ccc37
+520	550	1714414639139016500	content/fonts/CooperHewitt-Semibold.ttf	550d7291cb046118
+520	550	1714414639139016500	/media/reza/ADATA HD710 PRO/HAS/HAS/build/Desktop_Qt_6_6_3_GCC_64bit-Debug/content/fonts/CooperHewitt-Semibold.ttf	550d7291cb046118
+521	550	1714414639143016500	content/fonts/CooperHewitt-MediumItalic.ttf	41d47b5a9d3bfa8a
+521	550	1714414639143016500	/media/reza/ADATA HD710 PRO/HAS/HAS/build/Desktop_Qt_6_6_3_GCC_64bit-Debug/content/fonts/CooperHewitt-MediumItalic.ttf	41d47b5a9d3bfa8a
+521	550	1714414639143016500	content/fonts/CooperHewitt-Medium.ttf	6e06025bb94d2e86
+521	550	1714414639143016500	/media/reza/ADATA HD710 PRO/HAS/HAS/build/Desktop_Qt_6_6_3_GCC_64bit-Debug/content/fonts/CooperHewitt-Medium.ttf	6e06025bb94d2e86
+522	550	1714414639151016400	content/fonts/CooperHewitt-LightItalic.ttf	3a114b1cf5e5f4bb
+522	550	1714414639151016400	/media/reza/ADATA HD710 PRO/HAS/HAS/build/Desktop_Qt_6_6_3_GCC_64bit-Debug/content/fonts/CooperHewitt-LightItalic.ttf	3a114b1cf5e5f4bb
+525	550	1714414639143016500	content/fonts/CooperHewitt-Light.ttf	e645be7aef44699f
+525	550	1714414639143016500	/media/reza/ADATA HD710 PRO/HAS/HAS/build/Desktop_Qt_6_6_3_GCC_64bit-Debug/content/fonts/CooperHewitt-Light.ttf	e645be7aef44699f
+525	550	1714414639159016400	content/fonts/CooperHewitt-HeavyItalic.ttf	f821a6968855c132
+525	550	1714414639159016400	/media/reza/ADATA HD710 PRO/HAS/HAS/build/Desktop_Qt_6_6_3_GCC_64bit-Debug/content/fonts/CooperHewitt-HeavyItalic.ttf	f821a6968855c132
+529	550	1714414639151016400	content/fonts/CooperHewitt-Heavy.ttf	21156a88f16ed0d5
+529	550	1714414639151016400	/media/reza/ADATA HD710 PRO/HAS/HAS/build/Desktop_Qt_6_6_3_GCC_64bit-Debug/content/fonts/CooperHewitt-Heavy.ttf	21156a88f16ed0d5
+529	550	1714414639151016400	content/fonts/CooperHewitt-BookItalic.ttf	502e5149eb8088de
+529	550	1714414639151016400	/media/reza/ADATA HD710 PRO/HAS/HAS/build/Desktop_Qt_6_6_3_GCC_64bit-Debug/content/fonts/CooperHewitt-BookItalic.ttf	502e5149eb8088de
+529	550	1714414639147016500	content/fonts/CooperHewitt-Book.ttf	275b9f853f53efda
+529	550	1714414639147016500	/media/reza/ADATA HD710 PRO/HAS/HAS/build/Desktop_Qt_6_6_3_GCC_64bit-Debug/content/fonts/CooperHewitt-Book.ttf	275b9f853f53efda
+529	550	1714414639159016400	content/fonts/CooperHewitt-BoldItalic.ttf	f36c8c2b62c89a2e
+529	550	1714414639159016400	/media/reza/ADATA HD710 PRO/HAS/HAS/build/Desktop_Qt_6_6_3_GCC_64bit-Debug/content/fonts/CooperHewitt-BoldItalic.ttf	f36c8c2b62c89a2e
+533	550	1714414639151016400	content/fonts/CooperHewitt-Bold.ttf	a0f7c57779f2971a
+533	550	1714414639151016400	/media/reza/ADATA HD710 PRO/HAS/HAS/build/Desktop_Qt_6_6_3_GCC_64bit-Debug/content/fonts/CooperHewitt-Bold.ttf	a0f7c57779f2971a
+534	550	1714414639159016400	content/fonts/AvenirNextLTPro-Regular.otf	7d725391a3dab40d
+534	550	1714414639159016400	/media/reza/ADATA HD710 PRO/HAS/HAS/build/Desktop_Qt_6_6_3_GCC_64bit-Debug/content/fonts/AvenirNextLTPro-Regular.otf	7d725391a3dab40d
+534	550	1714414639159016400	content/fonts/AvenirNextLTPro-It.otf	8e4b9b6401d8bfdc
+534	550	1714414639159016400	/media/reza/ADATA HD710 PRO/HAS/HAS/build/Desktop_Qt_6_6_3_GCC_64bit-Debug/content/fonts/AvenirNextLTPro-It.otf	8e4b9b6401d8bfdc
+539	550	1714414639159016400	content/fonts/AvenirNextLTPro-Bold.otf	157066057a6dbe25
+539	550	1714414639159016400	/media/reza/ADATA HD710 PRO/HAS/HAS/build/Desktop_Qt_6_6_3_GCC_64bit-Debug/content/fonts/AvenirNextLTPro-Bold.otf	157066057a6dbe25
+549	595	1714414639207016100	content/content_qmlcache_autogen/timestamp	f44f2639c612282c
+549	595	1714414639207016100	content/content_qmlcache_autogen/mocs_compilation.cpp	f44f2639c612282c
+549	595	1714414639207016100	/media/reza/ADATA HD710 PRO/HAS/HAS/build/Desktop_Qt_6_6_3_GCC_64bit-Debug/content/content_qmlcache_autogen/timestamp	f44f2639c612282c
+549	595	1714414639207016100	/media/reza/ADATA HD710 PRO/HAS/HAS/build/Desktop_Qt_6_6_3_GCC_64bit-Debug/content/content_qmlcache_autogen/mocs_compilation.cpp	f44f2639c612282c
+596	617	1714414639231016000	content/CMakeFiles/content_qmlcache.dir/content_qmlcache_autogen/mocs_compilation.cpp.o	6f47901ad8234759
+550	621	1714414639231016000	content/content_autogen/timestamp	c3dd4f6b2796a0ec
+550	621	1714414639231016000	content/content_autogen/mocs_compilation.cpp	c3dd4f6b2796a0ec
+550	621	1714414639231016000	/media/reza/ADATA HD710 PRO/HAS/HAS/build/Desktop_Qt_6_6_3_GCC_64bit-Debug/content/content_autogen/timestamp	c3dd4f6b2796a0ec
+550	621	1714414639231016000	/media/reza/ADATA HD710 PRO/HAS/HAS/build/Desktop_Qt_6_6_3_GCC_64bit-Debug/content/content_autogen/mocs_compilation.cpp	c3dd4f6b2796a0ec
+621	625	1714414639239015900	content/meta_types/content_json_file_list.txt	f52512af65d11b15
+621	625	1714414639239015900	content/meta_types/content_json_file_list.txt.timestamp	f52512af65d11b15
+621	625	1714414639239015900	/media/reza/ADATA HD710 PRO/HAS/HAS/build/Desktop_Qt_6_6_3_GCC_64bit-Debug/content/meta_types/content_json_file_list.txt	f52512af65d11b15
+621	625	1714414639239015900	/media/reza/ADATA HD710 PRO/HAS/HAS/build/Desktop_Qt_6_6_3_GCC_64bit-Debug/content/meta_types/content_json_file_list.txt.timestamp	f52512af65d11b15
+539	641	1714414639247015900	content/contentplugin_init_autogen/timestamp	64d8783692e26d54
+539	641	1714414639247015900	content/contentplugin_init_autogen/mocs_compilation.cpp	64d8783692e26d54
+539	641	1714414639247015900	/media/reza/ADATA HD710 PRO/HAS/HAS/build/Desktop_Qt_6_6_3_GCC_64bit-Debug/content/contentplugin_init_autogen/timestamp	64d8783692e26d54
+539	641	1714414639247015900	/media/reza/ADATA HD710 PRO/HAS/HAS/build/Desktop_Qt_6_6_3_GCC_64bit-Debug/content/contentplugin_init_autogen/mocs_compilation.cpp	64d8783692e26d54
+625	649	1714414639259015800	content/meta_types/qt6content_debug_metatypes.json.gen	3bd79851182752e8
+625	649	1714414639259015800	content/meta_types/qt6content_debug_metatypes.json	3bd79851182752e8
+625	649	1714414639259015800	/media/reza/ADATA HD710 PRO/HAS/HAS/build/Desktop_Qt_6_6_3_GCC_64bit-Debug/content/meta_types/qt6content_debug_metatypes.json.gen	3bd79851182752e8
+625	649	1714414639259015800	/media/reza/ADATA HD710 PRO/HAS/HAS/build/Desktop_Qt_6_6_3_GCC_64bit-Debug/content/meta_types/qt6content_debug_metatypes.json	3bd79851182752e8
+641	666	1714414639279015700	content/CMakeFiles/contentplugin_init.dir/contentplugin_init_autogen/mocs_compilation.cpp.o	1ae77c0915716c4d
+649	828	1714414639275015700	content/content_qmltyperegistrations.cpp	36a6779bc9a3a68f
+649	828	1714414639275015700	content/content.qmltypes	36a6779bc9a3a68f
+649	828	1714414639275015700	/media/reza/ADATA HD710 PRO/HAS/HAS/build/Desktop_Qt_6_6_3_GCC_64bit-Debug/content/content_qmltyperegistrations.cpp	36a6779bc9a3a68f
+649	828	1714414639275015700	/media/reza/ADATA HD710 PRO/HAS/HAS/build/Desktop_Qt_6_6_3_GCC_64bit-Debug/content/content.qmltypes	36a6779bc9a3a68f
+828	1441	1714414639491014600	content/.rcc/qmlcache/content_SettingBar_qml.cpp	9d1ef1e81d1bc1c9
+828	1441	1714414639491014600	/media/reza/ADATA HD710 PRO/HAS/HAS/build/Desktop_Qt_6_6_3_GCC_64bit-Debug/content/.rcc/qmlcache/content_SettingBar_qml.cpp	9d1ef1e81d1bc1c9
+645	1949	1714414640227010500	content/CMakeFiles/contentplugin_init.dir/contentplugin_init.cpp.o	2bd0fd2f32a069bc
+831	1949	1714414639507014500	content/.rcc/qmlcache/content_CustomLabel_qml.cpp	727937af0b835175
+831	1949	1714414639507014500	/media/reza/ADATA HD710 PRO/HAS/HAS/build/Desktop_Qt_6_6_3_GCC_64bit-Debug/content/.rcc/qmlcache/content_CustomLabel_qml.cpp	727937af0b835175
+833	1949	1714414639539014300	content/.rcc/qmlcache/content_CircleSlider_qml.cpp	ef5ed8256574dbb0
+833	1949	1714414639539014300	/media/reza/ADATA HD710 PRO/HAS/HAS/build/Desktop_Qt_6_6_3_GCC_64bit-Debug/content/.rcc/qmlcache/content_CircleSlider_qml.cpp	ef5ed8256574dbb0
+841	1949	1714414639831012700	content/.rcc/qmlcache/content_Div_qml.cpp	a6ebddc0fafb443
+841	1949	1714414639831012700	/media/reza/ADATA HD710 PRO/HAS/HAS/build/Desktop_Qt_6_6_3_GCC_64bit-Debug/content/.rcc/qmlcache/content_Div_qml.cpp	a6ebddc0fafb443
+853	1949	1714414639835012700	content/.rcc/qmlcache/content_ToggleButton_qml.cpp	4354853916255b38
+853	1949	1714414639835012700	/media/reza/ADATA HD710 PRO/HAS/HAS/build/Desktop_Qt_6_6_3_GCC_64bit-Debug/content/.rcc/qmlcache/content_ToggleButton_qml.cpp	4354853916255b38
+857	1949	1714414639675013500	content/.rcc/qmlcache/content_ArcSlider_qml.cpp	a3a1fe25c5609312
+857	1949	1714414639675013500	/media/reza/ADATA HD710 PRO/HAS/HAS/build/Desktop_Qt_6_6_3_GCC_64bit-Debug/content/.rcc/qmlcache/content_ArcSlider_qml.cpp	a3a1fe25c5609312
+858	1949	1714414639679013500	content/.rcc/qmlcache/content_RGBSlider_qml.cpp	6ef5b567da3b76b0
+858	1949	1714414639679013500	/media/reza/ADATA HD710 PRO/HAS/HAS/build/Desktop_Qt_6_6_3_GCC_64bit-Debug/content/.rcc/qmlcache/content_RGBSlider_qml.cpp	6ef5b567da3b76b0
+877	1949	1714414639679013500	content/.rcc/qmlcache/content_Weather_qml.cpp	cb6802767ccae8c0
+877	1949	1714414639679013500	/media/reza/ADATA HD710 PRO/HAS/HAS/build/Desktop_Qt_6_6_3_GCC_64bit-Debug/content/.rcc/qmlcache/content_Weather_qml.cpp	cb6802767ccae8c0
+901	1949	1714414640011011700	content/.rcc/qmlcache/content_RestaurantItem_qml.cpp	a9e813bb44247b42
+901	1949	1714414640011011700	/media/reza/ADATA HD710 PRO/HAS/HAS/build/Desktop_Qt_6_6_3_GCC_64bit-Debug/content/.rcc/qmlcache/content_RestaurantItem_qml.cpp	a9e813bb44247b42
+957	1949	1714414639675013500	content/.rcc/qmlcache/content_HIS_qml.cpp	8ed08def523c7a62
+957	1949	1714414639675013500	/media/reza/ADATA HD710 PRO/HAS/HAS/build/Desktop_Qt_6_6_3_GCC_64bit-Debug/content/.rcc/qmlcache/content_HIS_qml.cpp	8ed08def523c7a62
+1218	2000	1714414640011011700	content/.rcc/qmlcache/content_data/Backend_qml.cpp	eef90b8aa6ab2a55
+1218	2000	1714414640011011700	/media/reza/ADATA HD710 PRO/HAS/HAS/build/Desktop_Qt_6_6_3_GCC_64bit-Debug/content/.rcc/qmlcache/content_data/Backend_qml.cpp	eef90b8aa6ab2a55
+941	2044	1714414640179010800	content/.rcc/qmlcache/content_TVMenu_qml.cpp	c4f3f24a8ab6b63a
+941	2044	1714414640179010800	/media/reza/ADATA HD710 PRO/HAS/HAS/build/Desktop_Qt_6_6_3_GCC_64bit-Debug/content/.rcc/qmlcache/content_TVMenu_qml.cpp	c4f3f24a8ab6b63a
+858	2049	1714414640019011700	content/.rcc/qmlcache/content_Browser_qml.cpp	9f5b9608fb4f7771
+858	2049	1714414640019011700	/media/reza/ADATA HD710 PRO/HAS/HAS/build/Desktop_Qt_6_6_3_GCC_64bit-Debug/content/.rcc/qmlcache/content_Browser_qml.cpp	9f5b9608fb4f7771
+861	2049	1714414639835012700	content/.rcc/qmlcache/content_Pager_qml.cpp	572921e3116c64d9
+861	2049	1714414639835012700	/media/reza/ADATA HD710 PRO/HAS/HAS/build/Desktop_Qt_6_6_3_GCC_64bit-Debug/content/.rcc/qmlcache/content_Pager_qml.cpp	572921e3116c64d9
+845	2177	1714414640011011700	content/.rcc/qmlcache/content_Lighting_qml.cpp	a1394117a232f544
+845	2177	1714414640011011700	/media/reza/ADATA HD710 PRO/HAS/HAS/build/Desktop_Qt_6_6_3_GCC_64bit-Debug/content/.rcc/qmlcache/content_Lighting_qml.cpp	a1394117a232f544
+1221	2180	1714414640007011700	content/.rcc/qmlcache/content_data/Colors_qml.cpp	1bc7209681bc8269
+1221	2180	1714414640007011700	/media/reza/ADATA HD710 PRO/HAS/HAS/build/Desktop_Qt_6_6_3_GCC_64bit-Debug/content/.rcc/qmlcache/content_data/Colors_qml.cpp	1bc7209681bc8269
+929	2185	1714414640011011700	content/.rcc/qmlcache/content_TVItem_qml.cpp	a867cc89b996a7f
+929	2185	1714414640011011700	/media/reza/ADATA HD710 PRO/HAS/HAS/build/Desktop_Qt_6_6_3_GCC_64bit-Debug/content/.rcc/qmlcache/content_TVItem_qml.cpp	a867cc89b996a7f
+957	2185	1714414640179010800	content/.rcc/qmlcache/content_GameMenu_qml.cpp	f6e25d99d29d73e4
+957	2185	1714414640179010800	/media/reza/ADATA HD710 PRO/HAS/HAS/build/Desktop_Qt_6_6_3_GCC_64bit-Debug/content/.rcc/qmlcache/content_GameMenu_qml.cpp	f6e25d99d29d73e4
+957	2185	1714414640231010500	content/.rcc/qmlcache/content_NurseCall_qml.cpp	482a1efeeee5433a
+957	2185	1714414640231010500	/media/reza/ADATA HD710 PRO/HAS/HAS/build/Desktop_Qt_6_6_3_GCC_64bit-Debug/content/.rcc/qmlcache/content_NurseCall_qml.cpp	482a1efeeee5433a
+960	2185	1714414640007011700	content/.rcc/qmlcache/content_data/Constants_qml.cpp	9756a2faecf0de45
+960	2185	1714414640007011700	/media/reza/ADATA HD710 PRO/HAS/HAS/build/Desktop_Qt_6_6_3_GCC_64bit-Debug/content/.rcc/qmlcache/content_data/Constants_qml.cpp	9756a2faecf0de45
+949	2233	1714414640043011500	content/.rcc/qmlcache/content_GameItem_qml.cpp	2cc6798da5a33448
+949	2233	1714414640043011500	/media/reza/ADATA HD710 PRO/HAS/HAS/build/Desktop_Qt_6_6_3_GCC_64bit-Debug/content/.rcc/qmlcache/content_GameItem_qml.cpp	2cc6798da5a33448
+869	2250	1714414640011011700	content/.rcc/qmlcache/content_PagerIcon_qml.cpp	4996f611929f1c7e
+869	2250	1714414640011011700	/media/reza/ADATA HD710 PRO/HAS/HAS/build/Desktop_Qt_6_6_3_GCC_64bit-Debug/content/.rcc/qmlcache/content_PagerIcon_qml.cpp	4996f611929f1c7e
+958	2256	1714414640043011500	content/.rcc/qmlcache/content_DialButton_qml.cpp	4516b0d4675b032e
+958	2256	1714414640043011500	/media/reza/ADATA HD710 PRO/HAS/HAS/build/Desktop_Qt_6_6_3_GCC_64bit-Debug/content/.rcc/qmlcache/content_DialButton_qml.cpp	4516b0d4675b032e
+829	2266	1714414640039011500	content/.rcc/qmlcache/content_App_qml.cpp	462cdf3393dd3e43
+829	2266	1714414640039011500	/media/reza/ADATA HD710 PRO/HAS/HAS/build/Desktop_Qt_6_6_3_GCC_64bit-Debug/content/.rcc/qmlcache/content_App_qml.cpp	462cdf3393dd3e43
+596	2269	1714414640883006900	content/CMakeFiles/content_qmlcache.dir/.rcc/qmlcache/content_qmlcache_loader.cpp.o	ecdd32d57c21b1f2
+958	2269	1714414640223010500	content/.rcc/qmlcache/content_CardReaderMenu_qml.cpp	707e468ddf9990b7
+958	2269	1714414640223010500	/media/reza/ADATA HD710 PRO/HAS/HAS/build/Desktop_Qt_6_6_3_GCC_64bit-Debug/content/.rcc/qmlcache/content_CardReaderMenu_qml.cpp	707e468ddf9990b7
+921	2273	1714414640035011600	content/.rcc/qmlcache/content_RestaurantMenu_qml.cpp	a5605147b60049a2
+921	2273	1714414640035011600	/media/reza/ADATA HD710 PRO/HAS/HAS/build/Desktop_Qt_6_6_3_GCC_64bit-Debug/content/.rcc/qmlcache/content_RestaurantMenu_qml.cpp	a5605147b60049a2
+837	2277	1714414640227010500	content/.rcc/qmlcache/content_Dashboard_qml.cpp	64bedf0f4d1db129
+837	2277	1714414640227010500	/media/reza/ADATA HD710 PRO/HAS/HAS/build/Desktop_Qt_6_6_3_GCC_64bit-Debug/content/.rcc/qmlcache/content_Dashboard_qml.cpp	64bedf0f4d1db129
+2277	2561	1714414640919006700	content/CMakeFiles/content.dir/content_autogen/mocs_compilation.cpp.o	1d5c66513d35e65d
+2281	3764	1714414642378998700	content/CMakeFiles/content.dir/content_qmltyperegistrations.cpp.o	cbe23781f218b093
+2277	4033	1714414642642997300	content/CMakeFiles/content.dir/.rcc/qmlcache/content_CustomLabel_qml.cpp.o	ce2d8f0f132f74d7
+2508	4785	1714414643394993100	content/CMakeFiles/content.dir/.rcc/qmlcache/content_DialButton_qml.cpp.o	445fa87283ecd2ff
+2549	4905	1714414643518992500	content/CMakeFiles/content.dir/.rcc/qmlcache/content_data/Colors_qml.cpp.o	104dc3dbf0f2fd7d
+2401	4977	1714414643590992100	content/CMakeFiles/content.dir/.rcc/qmlcache/content_RestaurantItem_qml.cpp.o	bbddeec3a861fae7
+2313	5023	1714414643630991900	content/CMakeFiles/content.dir/.rcc/qmlcache/content_Div_qml.cpp.o	289d03eb97d28f89
+2423	5068	1714414643678991600	content/CMakeFiles/content.dir/.rcc/qmlcache/content_TVMenu_qml.cpp.o	ffb1a1e993580a61
+2515	5069	1714414643682991600	content/CMakeFiles/content.dir/.rcc/qmlcache/content_data/Constants_qml.cpp.o	4ef07ff3048911b7
+2541	5069	1714414643670991600	content/CMakeFiles/content.dir/.rcc/qmlcache/content_data/Backend_qml.cpp.o	a92dc4ca3c4412ab
+2442	5148	1714414643758991200	content/CMakeFiles/content.dir/.rcc/qmlcache/content_GameItem_qml.cpp.o	45085987c2f072fb
+2447	5161	1714414643774991100	content/CMakeFiles/content.dir/.rcc/qmlcache/content_GameMenu_qml.cpp.o	bdc5842d776441d7
+2297	5173	1714414643774991100	content/CMakeFiles/content.dir/.rcc/qmlcache/content_CircleSlider_qml.cpp.o	e30783912caeeed7
+2461	5173	1714414643782991000	content/CMakeFiles/content.dir/.rcc/qmlcache/content_HIS_qml.cpp.o	bc376565147380dc
+2284	5183	1714414643798990900	content/CMakeFiles/content.dir/.rcc/qmlcache/content_App_qml.cpp.o	e5eacb2c37c9b286
+2413	5324	1714414643938990200	content/CMakeFiles/content.dir/.rcc/qmlcache/content_RestaurantMenu_qml.cpp.o	91bfca21fdfc76ad
+2365	5328	1714414643942990200	content/CMakeFiles/content.dir/.rcc/qmlcache/content_Browser_qml.cpp.o	3a659955e6b48ff5
+2381	5435	1714414644046989600	content/CMakeFiles/content.dir/.rcc/qmlcache/content_PagerIcon_qml.cpp.o	27e4b7d55cfdcb16
+2485	5449	1714414644062989500	content/CMakeFiles/content.dir/.rcc/qmlcache/content_NurseCall_qml.cpp.o	e82621e2ad8579e8
+2317	5449	1714414644062989500	content/CMakeFiles/content.dir/.rcc/qmlcache/content_Lighting_qml.cpp.o	e94266d8b671e201
+2337	5465	1714414644034989700	content/CMakeFiles/content.dir/.rcc/qmlcache/content_ArcSlider_qml.cpp.o	b22bf77cbffbd258
+2422	5505	1714414644006989800	content/CMakeFiles/content.dir/.rcc/qmlcache/content_TVItem_qml.cpp.o	c4864ac9ee504511
+2393	5551	1714414644166988900	content/CMakeFiles/content.dir/.rcc/qmlcache/content_Weather_qml.cpp.o	eac4f907eaf519b9
+2289	5589	1714414644202988700	content/CMakeFiles/content.dir/.rcc/qmlcache/content_SettingBar_qml.cpp.o	8e094aeb005f8d11
+2301	5669	1714414644274988300	content/CMakeFiles/content.dir/.rcc/qmlcache/content_Dashboard_qml.cpp.o	eab54e70e88fcf15
+2325	5685	1714414644298988200	content/CMakeFiles/content.dir/.rcc/qmlcache/content_ToggleButton_qml.cpp.o	a2ad3cb7a6821979
+2341	5696	1714414644310988100	content/CMakeFiles/content.dir/.rcc/qmlcache/content_RGBSlider_qml.cpp.o	919144f607ee64a1
+2509	5893	1714414644506987100	content/CMakeFiles/content.dir/.rcc/qmlcache/content_CardReaderMenu_qml.cpp.o	acde24a5760f79c9
+2374	6028	1714414644642986300	content/CMakeFiles/content.dir/.rcc/qmlcache/content_Pager_qml.cpp.o	d37ae0c265be7075
+6028	6188	1714414644798985500	content/libcontent.a	786fdd7e437b54b0
+549	6861	1714414645414982100	content/.rcc/qrc_content_raw_qml_0.cpp	f7f34df35d23caf0
+549	6861	1714414645414982100	/media/reza/ADATA HD710 PRO/HAS/HAS/build/Desktop_Qt_6_6_3_GCC_64bit-Debug/content/.rcc/qrc_content_raw_qml_0.cpp	f7f34df35d23caf0
+6861	6869	1714414645486981700	content/CMakeFiles/contentplugin.dir/contentplugin_autogen/mocs_compilation.cpp.o	44fec6e246693b48
+6862	8193	1714414646806974600	content/CMakeFiles/contentplugin.dir/contentplugin_contentPlugin.cpp.o	968ca1117fe8de6
+6861	47541	1714414686130768700	content/CMakeFiles/content_resources_2.dir/.rcc/qrc_content_raw_qml_0.cpp.o	e0ac0e512bb18408
+47541	47548	1714414686162768600	content/libcontentplugin.a	4cb29a712528e07d
+47548	47745	1714414686166768600	.rcc/qmlcache/appHAS_qmlcache_loader.cpp	1597950f156b3e34
+47548	47745	1714414686166768600	/media/reza/ADATA HD710 PRO/HAS/HAS/build/Desktop_Qt_6_6_3_GCC_64bit-Debug/.rcc/qmlcache/appHAS_qmlcache_loader.cpp	1597950f156b3e34
+47745	48293	1714414686902764800	appHAS_autogen/timestamp	e51e32c67ea72174
+47745	48293	1714414686902764800	appHAS_autogen/mocs_compilation.cpp	e51e32c67ea72174
+47745	48293	1714414686902764800	/media/reza/ADATA HD710 PRO/HAS/HAS/build/Desktop_Qt_6_6_3_GCC_64bit-Debug/appHAS_autogen/timestamp	e51e32c67ea72174
+47745	48293	1714414686902764800	/media/reza/ADATA HD710 PRO/HAS/HAS/build/Desktop_Qt_6_6_3_GCC_64bit-Debug/appHAS_autogen/mocs_compilation.cpp	e51e32c67ea72174
+48293	48297	1714414686910764800	.rcc/qrc_appHAS_raw_qml_0.cpp	fc6a9524518623d6
+48293	48297	1714414686910764800	/media/reza/ADATA HD710 PRO/HAS/HAS/build/Desktop_Qt_6_6_3_GCC_64bit-Debug/.rcc/qrc_appHAS_raw_qml_0.cpp	fc6a9524518623d6
+48293	48301	1714414686914764800	.rcc/qrc_qmake_HAS.cpp	5f5f48b37080d77b
+48293	48301	1714414686914764800	/media/reza/ADATA HD710 PRO/HAS/HAS/build/Desktop_Qt_6_6_3_GCC_64bit-Debug/.rcc/qrc_qmake_HAS.cpp	5f5f48b37080d77b
+48293	48305	1714414686922764700	meta_types/appHAS_json_file_list.txt	5418d7713fb90424
+48293	48305	1714414686922764700	meta_types/appHAS_json_file_list.txt.timestamp	5418d7713fb90424
+48293	48305	1714414686922764700	/media/reza/ADATA HD710 PRO/HAS/HAS/build/Desktop_Qt_6_6_3_GCC_64bit-Debug/meta_types/appHAS_json_file_list.txt	5418d7713fb90424
+48293	48305	1714414686922764700	/media/reza/ADATA HD710 PRO/HAS/HAS/build/Desktop_Qt_6_6_3_GCC_64bit-Debug/meta_types/appHAS_json_file_list.txt.timestamp	5418d7713fb90424
+48305	48308	1714414686922764700	meta_types/qt6apphas_debug_metatypes.json.gen	ae5bdb939fc2054d
+48305	48308	1714414686922764700	meta_types/qt6apphas_debug_metatypes.json	ae5bdb939fc2054d
+48305	48308	1714414686922764700	/media/reza/ADATA HD710 PRO/HAS/HAS/build/Desktop_Qt_6_6_3_GCC_64bit-Debug/meta_types/qt6apphas_debug_metatypes.json.gen	ae5bdb939fc2054d
+48305	48308	1714414686922764700	/media/reza/ADATA HD710 PRO/HAS/HAS/build/Desktop_Qt_6_6_3_GCC_64bit-Debug/meta_types/qt6apphas_debug_metatypes.json	ae5bdb939fc2054d
+48308	48486	1714414686946764600	apphas_qmltyperegistrations.cpp	cef39128eb9fe732
+48308	48486	1714414686946764600	HAS/appHAS.qmltypes	cef39128eb9fe732
+48308	48486	1714414686946764600	/media/reza/ADATA HD710 PRO/HAS/HAS/build/Desktop_Qt_6_6_3_GCC_64bit-Debug/apphas_qmltyperegistrations.cpp	cef39128eb9fe732
+48308	48486	1714414686946764600	/media/reza/ADATA HD710 PRO/HAS/HAS/build/Desktop_Qt_6_6_3_GCC_64bit-Debug/HAS/appHAS.qmltypes	cef39128eb9fe732
+48486	48974	1714414687286762900	.rcc/qmlcache/appHAS_main_qml.cpp	8d3816214e867860
+48486	48974	1714414687286762900	/media/reza/ADATA HD710 PRO/HAS/HAS/build/Desktop_Qt_6_6_3_GCC_64bit-Debug/.rcc/qmlcache/appHAS_main_qml.cpp	8d3816214e867860
+49037	49160	1714414687774760500	CMakeFiles/appHAS.dir/build/Desktop_Qt_6_6_3_GCC_64bit-Debug/.rcc/qrc_appHAS_raw_qml_0.cpp.o	4549875e57379606
+49026	49176	1714414687782760400	CMakeFiles/appHAS.dir/build/Desktop_Qt_6_6_3_GCC_64bit-Debug/.rcc/qrc_qmake_HAS.cpp.o	8dc74a0ddda4af6b
+48981	49873	1714414688478756900	CMakeFiles/appHAS.dir/src/restaurantitemdata.cpp.o	cdb149138ca0cf29
+48978	50169	1714414688782755400	CMakeFiles/appHAS.dir/src/togglebuttonviewmodel.cpp.o	afb65225ad114eeb
+48997	50196	1714414688810755300	CMakeFiles/appHAS.dir/src/tvitemdata.cpp.o	e4e30f4ea12d5b4c
+49012	50263	1714414688878754900	CMakeFiles/appHAS.dir/src/gameitemdata.cpp.o	7b407209787ff37c
+49025	50357	1714414688966754500	CMakeFiles/appHAS.dir/src/serialportreader.cpp.o	385e90d09bab47f9
+49026	50385	1714414688990754400	CMakeFiles/appHAS.dir/build/Desktop_Qt_6_6_3_GCC_64bit-Debug/.rcc/qmlcache/appHAS_qmlcache_loader.cpp.o	ad0ce6d39d54ca8
+48974	50408	1714414689022754200	CMakeFiles/appHAS.dir/apphas_qmltyperegistrations.cpp.o	471df77c8ff5793f
+49025	50411	1714414689026754200	CMakeFiles/appHAS.dir/src/serialportwriter.cpp.o	72373ec1847003ad
+49025	50437	1714414689050754100	CMakeFiles/appHAS.dir/src/serialcontroller.cpp.o	35761c7cf74b96d7
+49033	50460	1714414689074753900	CMakeFiles/appHAS.dir/build/Desktop_Qt_6_6_3_GCC_64bit-Debug/.rcc/qmlcache/appHAS_main_qml.cpp.o	75cb8f0aef82dabe
+48997	51634	1714414690246748100	CMakeFiles/appHAS.dir/src/tvmodel.cpp.o	f14e185ebe05d8c2
+48978	51640	1714414690254748000	CMakeFiles/appHAS.dir/src/restaurantmodel.cpp.o	f73fa216770ffb44
+49012	51749	1714414690358747500	CMakeFiles/appHAS.dir/src/gamemodel.cpp.o	4420292b14173a7f
+48974	52626	1714414691238743100	CMakeFiles/appHAS.dir/appHAS_autogen/mocs_compilation.cpp.o	781611482fe339ad
+48974	52759	1714414691370742400	CMakeFiles/appHAS.dir/main.cpp.o	1ef2105a6eb0cfd4
+52759	53650	1714414692254738000	appHAS	2e179d66e767dca9
+4	5	1714414919781812900	content/App.qml	32e84e6841779bba
+4	5	1714414919781812900	/media/reza/ADATA HD710 PRO/HAS/HAS/build/Desktop_Qt_6_6_3_GCC_64bit-Debug/content/App.qml	32e84e6841779bba
+5	355	1714414919889812500	content/.rcc/qmlcache/content_App_qml.cpp	462cdf3393dd3e43
+5	355	1714414919889812500	/media/reza/ADATA HD710 PRO/HAS/HAS/build/Desktop_Qt_6_6_3_GCC_64bit-Debug/content/.rcc/qmlcache/content_App_qml.cpp	462cdf3393dd3e43
+355	2038	1714414921809806300	content/CMakeFiles/content.dir/.rcc/qmlcache/content_App_qml.cpp.o	e5eacb2c37c9b286
+2038	2206	1714414921973805700	content/libcontent.a	786fdd7e437b54b0
+4	4515	1714414924229798400	content/.rcc/qrc_content_raw_qml_0.cpp	f7f34df35d23caf0
+4	4515	1714414924229798400	/media/reza/ADATA HD710 PRO/HAS/HAS/build/Desktop_Qt_6_6_3_GCC_64bit-Debug/content/.rcc/qrc_content_raw_qml_0.cpp	f7f34df35d23caf0
+4515	43829	1714414963581675100	content/CMakeFiles/content_resources_2.dir/.rcc/qrc_content_raw_qml_0.cpp.o	e0ac0e512bb18408
+43830	44760	1714414964525672300	appHAS	2e179d66e767dca9
+5	12	1714415014017529500	content/App.qml	32e84e6841779bba
+5	12	1714415014017529500	/media/reza/ADATA HD710 PRO/HAS/HAS/build/Desktop_Qt_6_6_3_GCC_64bit-Debug/content/App.qml	32e84e6841779bba
+12	348	1714415014137529200	content/.rcc/qmlcache/content_App_qml.cpp	462cdf3393dd3e43
+12	348	1714415014137529200	/media/reza/ADATA HD710 PRO/HAS/HAS/build/Desktop_Qt_6_6_3_GCC_64bit-Debug/content/.rcc/qmlcache/content_App_qml.cpp	462cdf3393dd3e43
+349	1662	1714415015673524900	content/CMakeFiles/content.dir/.rcc/qmlcache/content_App_qml.cpp.o	e5eacb2c37c9b286
+1662	1808	1714415015813524600	content/libcontent.a	786fdd7e437b54b0
+7	4377	1714415018329517700	content/.rcc/qrc_content_raw_qml_0.cpp	f7f34df35d23caf0
+7	4377	1714415018329517700	/media/reza/ADATA HD710 PRO/HAS/HAS/build/Desktop_Qt_6_6_3_GCC_64bit-Debug/content/.rcc/qrc_content_raw_qml_0.cpp	f7f34df35d23caf0
+4377	42194	1714415056185417500	content/CMakeFiles/content_resources_2.dir/.rcc/qrc_content_raw_qml_0.cpp.o	e0ac0e512bb18408
+42194	43059	1714415057061415300	appHAS	2e179d66e767dca9
+5	8	1714415064921395300	content/Dashboard.qml	5a5ecabf884bd1c6
+5	8	1714415064921395300	/media/reza/ADATA HD710 PRO/HAS/HAS/build/Desktop_Qt_6_6_3_GCC_64bit-Debug/content/Dashboard.qml	5a5ecabf884bd1c6
+8	423	1714415065189394700	content/.rcc/qmlcache/content_Dashboard_qml.cpp	64bedf0f4d1db129
+8	423	1714415065189394700	/media/reza/ADATA HD710 PRO/HAS/HAS/build/Desktop_Qt_6_6_3_GCC_64bit-Debug/content/.rcc/qmlcache/content_Dashboard_qml.cpp	64bedf0f4d1db129
+423	2212	1714415067125389800	content/CMakeFiles/content.dir/.rcc/qmlcache/content_Dashboard_qml.cpp.o	eab54e70e88fcf15
+2212	2474	1714415067385389200	content/libcontent.a	786fdd7e437b54b0
+8	4326	1714415069185384700	content/.rcc/qrc_content_raw_qml_0.cpp	f7f34df35d23caf0
+8	4326	1714415069185384700	/media/reza/ADATA HD710 PRO/HAS/HAS/build/Desktop_Qt_6_6_3_GCC_64bit-Debug/content/.rcc/qrc_content_raw_qml_0.cpp	f7f34df35d23caf0
+4326	42580	1714415107473292200	content/CMakeFiles/content_resources_2.dir/.rcc/qrc_content_raw_qml_0.cpp.o	e0ac0e512bb18408
+42580	43426	1714415108333290200	appHAS	2e179d66e767dca9
+0	3	0	CMakeFiles/clean.additional	f4f743e569e7d670
+3	45	0	clean	5d7736aa9bedaabd

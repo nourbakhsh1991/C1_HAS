@@ -1,0 +1,38 @@
+--bare
+-I
+/media/reza/ADATA HD710 PRO/HAS/HAS/build/Desktop_Qt_6_6_3_GCC_64bit-Debug
+-I
+/home/reza/Qt/6.6.3/gcc_64/./qml
+--resource
+/media/reza/ADATA HD710 PRO/HAS/HAS/build/Desktop_Qt_6_6_3_GCC_64bit-Debug/content/.rcc/qmake_content.qrc
+--resource
+/media/reza/ADATA HD710 PRO/HAS/HAS/build/Desktop_Qt_6_6_3_GCC_64bit-Debug/content/.rcc/content_raw_qml_0.qrc
+/media/reza/ADATA HD710 PRO/HAS/HAS/content/App.qml
+/media/reza/ADATA HD710 PRO/HAS/HAS/content/SettingBar.qml
+/media/reza/ADATA HD710 PRO/HAS/HAS/content/CustomLabel.qml
+/media/reza/ADATA HD710 PRO/HAS/HAS/content/CircleSlider.qml
+/media/reza/ADATA HD710 PRO/HAS/HAS/content/Dashboard.qml
+/media/reza/ADATA HD710 PRO/HAS/HAS/content/Div.qml
+/media/reza/ADATA HD710 PRO/HAS/HAS/content/Lighting.qml
+/media/reza/ADATA HD710 PRO/HAS/HAS/content/ToggleButton.qml
+/media/reza/ADATA HD710 PRO/HAS/HAS/content/ArcSlider.qml
+/media/reza/ADATA HD710 PRO/HAS/HAS/content/RGBSlider.qml
+/media/reza/ADATA HD710 PRO/HAS/HAS/content/Browser.qml
+/media/reza/ADATA HD710 PRO/HAS/HAS/content/Pager.qml
+/media/reza/ADATA HD710 PRO/HAS/HAS/content/PagerIcon.qml
+/media/reza/ADATA HD710 PRO/HAS/HAS/content/Weather.qml
+/media/reza/ADATA HD710 PRO/HAS/HAS/content/RestaurantItem.qml
+/media/reza/ADATA HD710 PRO/HAS/HAS/content/RestaurantMenu.qml
+/media/reza/ADATA HD710 PRO/HAS/HAS/content/TVItem.qml
+/media/reza/ADATA HD710 PRO/HAS/HAS/content/TVMenu.qml
+/media/reza/ADATA HD710 PRO/HAS/HAS/content/GameItem.qml
+/media/reza/ADATA HD710 PRO/HAS/HAS/content/GameMenu.qml
+/media/reza/ADATA HD710 PRO/HAS/HAS/content/HIS.qml
+/media/reza/ADATA HD710 PRO/HAS/HAS/content/NurseCall.qml
+/media/reza/ADATA HD710 PRO/HAS/HAS/content/DialButton.qml
+/media/reza/ADATA HD710 PRO/HAS/HAS/content/CardReaderMenu.qml
+/media/reza/ADATA HD710 PRO/HAS/HAS/content/data/Constants.qml
+/media/reza/ADATA HD710 PRO/HAS/HAS/content/data/Backend.qml
+/media/reza/ADATA HD710 PRO/HAS/HAS/content/data/Colors.qml
+--json
+/media/reza/ADATA HD710 PRO/HAS/HAS/build/Desktop_Qt_6_6_3_GCC_64bit-Debug/content_qmllint.json

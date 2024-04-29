@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/HAS">
+    <file alias="qmldir">/media/reza/ADATA HD710 PRO/HAS/HAS/build/Desktop_Qt_6_6_3_GCC_64bit-Debug/HAS/qmldir</file>
+  </qresource>
+</RCC>
+
